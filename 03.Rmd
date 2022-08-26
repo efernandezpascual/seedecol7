@@ -2,7 +2,7 @@
 
 \cleardoublepage
 
-### Directed endozoochory: a hitchhiker’s guide for clonal ericaceous plants to successful sexual reproduction
+## Directed endozoochory: a hitchhiker’s guide for clonal ericaceous plants to successful sexual reproduction
 
 ```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
 knitr::include_graphics("pics/oral.png")
@@ -18,7 +18,7 @@ Many plant populations are both seed and microsite limited. Microsites are often
 
 \newpage
 
-### Climate and microhabitat effects on the importance of endozoochory along an elevational gradient in southern Ecuador
+## Climate and microhabitat effects on the importance of endozoochory along an elevational gradient in southern Ecuador
 
 ```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
 knitr::include_graphics("pics/oral.png")
@@ -34,7 +34,7 @@ Seed dispersal is a key process shaping the distribution of plant species. Parti
 
 \newpage
 
-### Role of seed dispersal by animals on secondary succession in Cantabrian mountains: implications for rewilding and forest restoration.
+## Role of seed dispersal by animals on secondary succession in Cantabrian mountains: implications for rewilding and forest restoration.
 
 ```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
 knitr::include_graphics("pics/oral.png")
@@ -50,7 +50,7 @@ Rewilding of Cantabrian montane forests involves the recolonization of open anth
 
 \newpage
 
-### Are large vertebrates redundant in seed dispersal functions and dung beetle attraction in the Atlantic forest?
+## Are large vertebrates redundant in seed dispersal functions and dung beetle attraction in the Atlantic forest?
 
 ```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
 knitr::include_graphics("pics/oral.png")
@@ -66,7 +66,7 @@ Understanding the extent to which vertebrates play equivalent roles within commu
 
 \newpage
 
-### Drivers and functional consequences of an individual-based seed-dispersal network along a natural regeneration gradient
+## Drivers and functional consequences of an individual-based seed-dispersal network along a natural regeneration gradient
 
 ```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
 knitr::include_graphics("pics/oral.png")
@@ -82,7 +82,7 @@ Plant-animal interactions are shaped and reconfigured by the ecological context 
 
 \newpage
 
-### Dense herbivore populations influence the spatial patterns of seed dispersal and seed predation in the Mediterranean dwarf palm
+## Dense herbivore populations influence the spatial patterns of seed dispersal and seed predation in the Mediterranean dwarf palm
 
 ```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
 knitr::include_graphics("pics/oral.png")
@@ -98,7 +98,7 @@ The spatial distribution of adult plants and their seed dispersal pattern provid
 
 \newpage
 
-### Seed-dispersal limitation as a driver of biodiversity deficits in chronically fragmented landscapes
+## Seed-dispersal limitation as a driver of biodiversity deficits in chronically fragmented landscapes
 
 ```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
 knitr::include_graphics("pics/oral.png")
@@ -114,7 +114,7 @@ Human-induced landscape changes have transformed forest ecosystems into fragment
 
 \newpage
 
-### Understanding long-distance seed dispersal by sea currents: first results of experiments on Juniperus, Daucus, Ferula and Pancratium spp. from the Mediterranean Basin
+## Understanding long-distance seed dispersal by sea currents: first results of experiments on Juniperus, Daucus, Ferula and Pancratium spp. from the Mediterranean Basin
 
 ```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
 knitr::include_graphics("pics/oral.png")
@@ -130,7 +130,7 @@ To increase their evolutionary success, plants developed several adaptations to 
 
 \newpage
 
-### Variation among plant species in seed retention time inside frugivores’ gut: relevance and underlying traits
+## Variation among plant species in seed retention time inside frugivores’ gut: relevance and underlying traits
 
 ```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
 knitr::include_graphics("pics/oral.png")
@@ -150,7 +150,7 @@ knitr::include_graphics("pics/oral.png")
 
 \newpage
 
-### Plants on the ride: tracking the research diversity globally on endozoochory
+## Plants on the ride: tracking the research diversity globally on endozoochory
 
 ```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
 knitr::include_graphics("pics/poster.png")
@@ -166,7 +166,7 @@ Animal-mediated seed dispersal (zoochory) is one of the essential ecosystem serv
 
 \newpage
 
-### Are seeds of wind-dispersed species really more oily? - The revised relationship between dispersal syndromes and seed nutrients.
+## Are seeds of wind-dispersed species really more oily? - The revised relationship between dispersal syndromes and seed nutrients.
 
 ```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
 knitr::include_graphics("pics/poster.png")
@@ -182,7 +182,7 @@ Dispersal of all living organisms is a heterogeneous but, at the same time, very
 
 \newpage
 
-### The evolution of plant dispersal syndromes and seed traits: evolutionary cues and diversification.
+## The evolution of plant dispersal syndromes and seed traits: evolutionary cues and diversification.
 
 ```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
 knitr::include_graphics("pics/poster.png")
@@ -198,7 +198,7 @@ Seed dispersal is a key trait for the reproductive success of plant species affe
 
 \newpage
 
-### Unmasking the perching effect of the pioneer Mediterranean palm *Chamaerops humilis* L.
+## Unmasking the perching effect of the pioneer Mediterranean palm *Chamaerops humilis* L.
 
 ```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
 knitr::include_graphics("pics/poster.png")
@@ -214,7 +214,7 @@ Seed arrival is a crucial necessary ecological process during the (re)colonizati
 
 \newpage
 
-### Seed dispersal by ungulates – from seed traits to landscape level
+## Seed dispersal by ungulates – from seed traits to landscape level
 
 ```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
 knitr::include_graphics("pics/poster.png")

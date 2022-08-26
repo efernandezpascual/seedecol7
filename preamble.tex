@@ -1,8 +1,23 @@
 \usepackage{booktabs}
 \usepackage{pdfpages}
 \usepackage{fancyhdr}
+\usepackage{afterpage}
+
+\usepackage{titlepic}
+\usepackage{longtable}
+\usepackage[width=\textwidth]{caption}
+
 \pagestyle{fancy}
 \fancyhead{}
 \fancyfoot{}
 \fancyhead[C]{\leftmark}
 \fancyfoot[C]{\thepage}
+
+\newcommand\blankpage{%
+    \null
+    \thispagestyle{empty}%
+    \addtocounter{page}{-1}%
+    \newpage}
+    
+\let\oldmaketitle\maketitle
+\AtBeginDocument{\let\maketitle\relax}

@@ -2,7 +2,7 @@
 
 \cleardoublepage
 
-### Macroecology of seed dispersal distance
+## Macroecology of seed dispersal distance
 
 ```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
 knitr::include_graphics("pics/keynote.png")
@@ -18,7 +18,7 @@ Seed dispersal is critically important in plant regeneration, but patterns in se
 
 \newpage
 
-### Using seed ecology to inform biodiversity conservation
+## Using seed ecology to inform biodiversity conservation
 
 ```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
 knitr::include_graphics("pics/keynote.png")
@@ -34,7 +34,7 @@ Many questions remain surrounding both the importance of less commonly measured 
 
 \newpage
 
-### Seeding the future: evolutionary perspective on seed-based restoration
+## Seeding the future: evolutionary perspective on seed-based restoration
 
 ```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
 knitr::include_graphics("pics/keynote.png")
@@ -50,7 +50,7 @@ Restoration of degraded habitats is an indispensable tool for combating the curr
 
 \newpage
 
-### Seeds and climate change: what can we learn from alpine and arctic biomes?
+## Seeds and climate change: what can we learn from alpine and arctic biomes?
 
 ```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
 knitr::include_graphics("pics/keynote.png")

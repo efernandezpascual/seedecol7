@@ -2,7 +2,7 @@
 
 \cleardoublepage
 
-### Ecological correlates and evolutionary history of post-dispersal embryo growth and embryo growth rate in angiosperms
+## Ecological correlates and evolutionary history of post-dispersal embryo growth and embryo growth rate in angiosperms
 
 ```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
 knitr::include_graphics("pics/oral.png")
@@ -18,7 +18,7 @@ Several angiosperm lineages disperse seeds with small embryos and copious endosp
 
 \newpage
 
-### Macroevolutionary correlation of seed traits in flowering plants: current advances and future prospects
+## Macroevolutionary correlation of seed traits in flowering plants: current advances and future prospects
 
 ```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
 knitr::include_graphics("pics/oral.png")
@@ -34,7 +34,7 @@ Seeds show important variation as plant regenerative units among species, but th
 
 \newpage
 
-### The global seed germination spectrum of alpine plants
+## The global seed germination spectrum of alpine plants
 
 ```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
 knitr::include_graphics("pics/oral.png")
@@ -50,7 +50,7 @@ We present a quantitative synthesis of the seed germination spectrum of a cohere
 
 \newpage
 
-### No-dormancy in *Argyreia populifolia* seeds, an example of dormancy reversal in genus *Argyreia*
+## No-dormancy in *Argyreia populifolia* seeds, an example of dormancy reversal in genus *Argyreia*
 
 ```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
 knitr::include_graphics("pics/oral.png")
@@ -66,7 +66,7 @@ Phylogeny of seed dormancy of Convolvulaceae showed that Physical dormancy (PY) 
 
 \newpage
 
-### Two life-forms - two patterns of seed morphology in Orchidaceae
+## Two life-forms - two patterns of seed morphology in Orchidaceae
 
 ```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
 knitr::include_graphics("pics/oral.png")
@@ -82,7 +82,7 @@ Dust-seeds are one of the most common characters in the family Orchidaceae. In g
 
 \newpage
 
-### Orchid seed morphometrics as a predictor of germination behaviour and some ecological implications
+## Orchid seed morphometrics as a predictor of germination behaviour and some ecological implications
 
 ```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
 knitr::include_graphics("pics/oral.png")

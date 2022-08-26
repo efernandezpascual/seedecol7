@@ -1,0 +1,10 @@
+\thispagestyle{empty}
+\pagenumbering{gobble}% Remove page numbers (and reset to 1)
+\includepdf[scale=1.05]{portada.pdf}
+\afterpage{\blankpage}
+\pagenumbering{arabic}% Arabic page numbers (and reset to 1)
+
+\let\maketitle\oldmaketitle
+\maketitle
+
+\setcounter{page}{4}

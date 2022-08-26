@@ -2,7 +2,7 @@
 
 \cleardoublepage
 
-### Smaller, lighter, later: effects of a future warmer and drier climate on alpine seeds and seedlings
+## Smaller, lighter, later: effects of a future warmer and drier climate on alpine seeds and seedlings
 
 ```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
 knitr::include_graphics("pics/oral.png")
@@ -18,7 +18,7 @@ Early plant life-history stages, such as germination and seedling establishment,
 
 \newpage
 
-### Germination patterns under climate change in the plants of the Central Anatolian steppe
+## Germination patterns under climate change in the plants of the Central Anatolian steppe
 
 ```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
 knitr::include_graphics("pics/oral.png")
@@ -34,7 +34,7 @@ Climate change may affect plant community composition and dynamics by altering s
 
 \newpage
 
-### Adaptation of European beech (Fagus sylvatica L.) to the variable environments in the term of seed germination
+## Adaptation of European beech (Fagus sylvatica L.) to the variable environments in the term of seed germination
 
 ```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
 knitr::include_graphics("pics/oral.png")
@@ -50,7 +50,7 @@ Global climate change alters environmental conditions, and thus affects the repr
 
 \newpage
 
-### Multiple relations between seed traits and germination performance change with temperature
+## Multiple relations between seed traits and germination performance change with temperature
 
 ```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
 knitr::include_graphics("pics/oral.png")
@@ -66,7 +66,7 @@ Global warming triggers multiple responses in plant populations and communities.
 
 \newpage
 
-### Environment and polyploidy affect germination of rare shrub species
+## Environment and polyploidy affect germination of rare shrub species
 
 ```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
 knitr::include_graphics("pics/oral.png")
@@ -82,7 +82,7 @@ phenological seed and seedling traits, including seed size, germination rate (sp
 
 \newpage
 
-### Molecular mechanisms of allelochemicals in germination and seedling establishment
+## Molecular mechanisms of allelochemicals in germination and seedling establishment
 
 ```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
 knitr::include_graphics("pics/oral.png")
@@ -98,7 +98,7 @@ How phytotoxic allelochemicals interfere with seed germination and seedling esta
 
 \newpage
 
-### Ecophysiological and molecular mechanisms of blackgrass weed seed bank persistence
+## Ecophysiological and molecular mechanisms of blackgrass weed seed bank persistence
 
 ```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
 knitr::include_graphics("pics/oral.png")
@@ -114,7 +114,7 @@ The sole use of herbicides for the control of the weed blackgrass (Alopecurus my
 
 \newpage
 
-### Pericarp-elicited transcriptomic and hormonomic changes underpin early life history traits in the dimorphic diaspores of Aethionema arabicum
+## Pericarp-elicited transcriptomic and hormonomic changes underpin early life history traits in the dimorphic diaspores of Aethionema arabicum
 
 ```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
 knitr::include_graphics("pics/oral.png")
@@ -130,7 +130,7 @@ The dimorphic annual Aethionema arabicum is a Brassicaceae producing two distinc
 
 \newpage
 
-### Seed priming with gas plasma activated water in Ethiopia’s “orphan” crop tef (Eragrostis tef)
+## Seed priming with gas plasma activated water in Ethiopia’s “orphan” crop tef (Eragrostis tef)
 
 ```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
 knitr::include_graphics("pics/oral.png")
@@ -146,7 +146,7 @@ Tef (Eragrostis tef) is a cereal grass and a major staple crop of Ethiopia and E
 
 \newpage
 
-### Impact of red:far red ratios on germination in Australia’s tropical mountain cloud forests
+## Impact of red:far red ratios on germination in Australia’s tropical mountain cloud forests
 
 ```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
 knitr::include_graphics("pics/oral.png")
@@ -162,7 +162,7 @@ In Australia, tropical mountain cloud forests (TMCF) are restricted to the Wet T
 
 \newpage
 
-### Effects of fire season on the reproductive effort and seed resourcing of a post-fire flowerer
+## Effects of fire season on the reproductive effort and seed resourcing of a post-fire flowerer
 
 ```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
 knitr::include_graphics("pics/oral.png")
@@ -180,7 +180,7 @@ Fire is an integral part of many ecosystems and recent record-breaking fires in 
 
 \newpage
 
-### Environmental thermal regulation of dormancy in Echinochloa crus-galli (L.) P. Beauv. seeds
+## Environmental thermal regulation of dormancy in Echinochloa crus-galli (L.) P. Beauv. seeds
 
 ```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
 knitr::include_graphics("pics/oral.png")
@@ -196,7 +196,7 @@ Predicting weed emergence is of vital importance for weed management, since emer
 
 \newpage
 
-### Germination thresholds and stress tolerance of Australian native species under a changing climate
+## Germination thresholds and stress tolerance of Australian native species under a changing climate
 
 ```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
 knitr::include_graphics("pics/poster.png")
@@ -212,7 +212,7 @@ Climate variability is projected to increase due to climate change, with changin
 
 \newpage
 
-### SEED ECOLOGY OF Atropa baetica Willk. AS A POSSIBLE EXPLANATION FOR ITS RARITY
+## SEED ECOLOGY OF Atropa baetica Willk. AS A POSSIBLE EXPLANATION FOR ITS RARITY
 
 ```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
 knitr::include_graphics("pics/poster.png")
@@ -228,7 +228,7 @@ There is currently a consensus regarding the existence of multiple causes to exp
 
 \newpage
 
-### Comparative studies on seed germination in related Aquilegia species (Ranunculaceae)
+## Comparative studies on seed germination in related Aquilegia species (Ranunculaceae)
 
 ```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
 knitr::include_graphics("pics/poster.png")
@@ -244,7 +244,7 @@ Columbines (Aquilegia L.) represent a model system in evolutionary biology, howe
 
 \newpage
 
-### Timing of fire during summer determines seed germination in Cistaceae
+## Timing of fire during summer determines seed germination in Cistaceae
 
 ```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
 knitr::include_graphics("pics/poster.png")
@@ -260,7 +260,7 @@ Mediterranean-type climate ecosystems are fire-prone environments where species 
 
 \newpage
 
-### Cone/seed morphometry and germination ecophysiology of Juniperus drupacea at the westernmost area of its global distribution (Mt. Parnon, Greece)
+## Cone/seed morphometry and germination ecophysiology of Juniperus drupacea at the westernmost area of its global distribution (Mt. Parnon, Greece)
 
 ```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
 knitr::include_graphics("pics/poster.png")
@@ -276,7 +276,7 @@ Juniperus drupacea Labill. is a relict, dioecious tree/shrub found in Turkey, Sy
 
 \newpage
 
-### Physiological and molecular mechanisms of Lepidium sativum seed longevity and vigor
+## Physiological and molecular mechanisms of Lepidium sativum seed longevity and vigor
 
 ```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
 knitr::include_graphics("pics/poster.png")
@@ -292,7 +292,7 @@ Seeds have a central role in almost all the food supply chains important to huma
 
 \newpage
 
-### Ecophysiology seed traits of Devil's claw (Martynia annua; Martyniaceae)
+## Ecophysiology seed traits of Devil's claw (Martynia annua; Martyniaceae)
 
 ```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
 knitr::include_graphics("pics/poster.png")
@@ -308,7 +308,7 @@ Martynia annua is an invasive weed that carries many medicinal properties and is
 
 \newpage
 
-### What method is the best? Comparison between different smoke treatments on the germination of Cerrado species
+## What method is the best? Comparison between different smoke treatments on the germination of Cerrado species
 
 ```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
 knitr::include_graphics("pics/poster.png")
@@ -324,7 +324,7 @@ Smoke produced during fire events may affect seed germination of species of fire
 
 \newpage
 
-### Seed color reveals the bet-hedging strategy in an endemic species of Central Apennines (Italy): Astragalus aquilanus
+## Seed color reveals the bet-hedging strategy in an endemic species of Central Apennines (Italy): Astragalus aquilanus
 
 ```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
 knitr::include_graphics("pics/poster.png")
@@ -340,7 +340,7 @@ Astragalus aquilanus (Fabaceae) is an endemic species of Apennines (Italy). The 
 
 \newpage
 
-### Acacia saligna and Vachellia karroo: germination ecophysiology of two invasive species in the Mediterranean Basin
+## Acacia saligna and Vachellia karroo: germination ecophysiology of two invasive species in the Mediterranean Basin
 
 ```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
 knitr::include_graphics("pics/poster.png")

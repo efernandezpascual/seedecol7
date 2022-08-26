@@ -2,15 +2,15 @@
 
 \cleardoublepage
 
-### The role of seed functional diversity in buffering plant communities from species colonization
+## The role of seed functional diversity in buffering plant communities from species colonization
 
 ```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
 knitr::include_graphics("pics/oral.png")
 ```
 
-Del Vecchio, S. (1), Mattana E. (2), Buffa G. (1)
+Del Vecchio, S.^1^, Mattana E.^2^, Buffa G.^1^
 
-(1) Department of Environmental Sciences, Informatics and Statistics, Ca’ Foscari University of Venice, Venice, Italy; (2) Royal Botanic Gardens, Kew, Wakehurst, RH17 6TN, Ardingly, England, UK
+^1^*Ca’ Foscari University of Venice, Italy*; ^2^*Royal Botanic Gardens, Kew, UK*
 
 silvia.delvecchio@unive.it
 
@@ -18,15 +18,15 @@ Species traits considerably contribute to species assemblage in plant communitie
 
 \newpage
 
-### Easy to grow: assessing the role of regeneration traits in global urban trees selection
+## Easy to grow: assessing the role of regeneration traits in global urban trees selection
 
 ```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
 knitr::include_graphics("pics/oral.png")
 ```
 
-Phartyal, S. (1), Prouty, H. (1), Yadav, H. (1), Rosbakh, S. (2),Chen, S (3) and Poschlod, P. (2)
+Phartyal, S.^1^, Prouty, H.^1^, Yadav, H.^1^, Rosbakh, S.^2^, Chen, S.C.^3^, Poschlod, P.^2^
 
-(1) Nalanda University, India; (2) University of Regensburg, Germany; (3) CAS - Wuhan Botanical Garden, China
+^1^*Nalanda University, India*; ^2^*University of Regensburg, Germany*; ^3^*CAS - Wuhan Botanical Garden, China*
 
 shyamphartyal@gmail.com 
 
@@ -34,31 +34,31 @@ Urban trees provide important ecosystem services to city dwellers and are consid
 
 \newpage
 
-### Experimental germination responses to different temperature and light regimes and species spatial distributions in a guild of Western Australian annuals
+## Experimental germination responses to different temperature and light regimes and species spatial distributions in a guild of Western Australian annuals
 
 ```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
 knitr::include_graphics("pics/oral.png")
 ```
 
-Da Silva, I. A. (1),  Erickson, T. E. (2), Mayfield, M. M. (3), Merritt, D. J. (2) and Dwyer, J. M. (1)
+Da Silva, I.A.^1^,  Erickson, T.E.^2^, Mayfield, M.M.^3^, Merritt, D.J.^2^, Dwyer, J.M.^1^
 
-(1) The University of Queensland; Queensland, Australia (2) Department of Biodiversity, Conservation and Attractions, Kings Park Science, Western Australia, Australia; (3) The University of Melbourne, Victoria, Australia
+^1^*The University of Queensland, Australia*; ^2^*Kings Park Science, Australia*; ^3^*The University of Melbourne, Australia*
 
 i.arenddasilva@uqconnect.edu.au
 
-Annual species have evolved sets of germination cues that are presumably predictive of the post-germination environment. In naturally patchy environments, germination microsites often vary considerably in the amount of light they receive and in the diurnal temperature fluctuations they experience. It is therefore possible that species’ differential germination responses to temperature and light may be related to their spatial patterns of occurrence, but this remains largely untested. We investigated if species’ germination responses to experimental temperature and light treatments are associated to their occurrences along local gradients of overstory and litter cover in Western Australian winter annual communities. We first surveyed species’ occurrences in 150 quadrats across gradients of overstory and litter cover. Nineteen species recorded in this survey were then included in a germination experiment that manipulated (1) Light vs. Dark (12h light or 24h dark) approximating seeds near the soil surface versus those covered by litter and (2) Cold vs. Warm temperature regimes (7/18 °C and 7/24 °C) approximating diurnal fluctuations experienced in shaded versus sun-exposed microsites, respectively. In binomial models of occurrences in the field, one species was positively, and one was negatively associated with overstory cover. For litter cover three species were positively and 4 negatively associated. In the germination experiment, six species had highest germination probabilities in the Light treatment (regardless of temperature), five in Cold + Light, one in Warm + Light, two were indifferent to the treatments and four did not germinate at all. Overall, species’ experimental germination responses did not correspond with their spatial distributions along overstory and litter cover gradients. Our results suggest that either our experimental treatments did not accurately mimic microsite differences in the field, or that patchy germination is associated with factors other than light and temperature regimes, such as soil moisture, pH and salinity.
+Annual species have evolved sets of germination cues that are presumably predictive of the post-germination environment. In naturally patchy environments, germination microsites often vary considerably in the amount of light they receive and in the diurnal temperature fluctuations they experience. It is therefore possible that species’ differential germination responses to temperature and light may be related to their spatial patterns of occurrence, but this remains largely untested. We investigated if species’ germination responses to experimental temperature and light treatments are associated to their occurrences along local gradients of overstory and litter cover in Western Australian winter annual communities. We first surveyed species’ occurrences in 150 quadrats across gradients of overstory and litter cover. Nineteen species recorded in this survey were then included in a germination experiment that manipulated (1) Light vs. Dark (12h light or 24h dark) approximating seeds near the soil surface versus those covered by litter and (2) Cold vs. Warm temperature regimes (7/18 ºC and 7/24 ºC) approximating diurnal fluctuations experienced in shaded versus sun-exposed microsites, respectively. In binomial models of occurrences in the field, one species was positively, and one was negatively associated with overstory cover. For litter cover three species were positively and 4 negatively associated. In the germination experiment, six species had highest germination probabilities in the Light treatment (regardless of temperature), five in Cold + Light, one in Warm + Light, two were indifferent to the treatments and four did not germinate at all. Overall, species’ experimental germination responses did not correspond with their spatial distributions along overstory and litter cover gradients. Our results suggest that either our experimental treatments did not accurately mimic microsite differences in the field, or that patchy germination is associated with factors other than light and temperature regimes, such as soil moisture, pH and salinity.
 
 \newpage
 
-### Inferring community assembly processes from functional seed trait variation along temperature gradient
+## Inferring community assembly processes from functional seed trait variation along temperature gradient
 
 ```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
 knitr::include_graphics("pics/oral.png")
 ```
 
-Rosbakh, S. (1), Chalmandrier, L. (1,2), Phartyal, S. (1,3) and Poschlod, P. (1)
+Rosbakh, S.^1^, Chalmandrier, L.^1,2^, Phartyal, S.^1,3^, Poschlod, P.^1^
 
-(1) University of Regensburg, Germany; (2) University of Canterbury, New Zealand; (3) Nalanda University, India
+^1^*University of Regensburg, Germany*; ^2^*University of Canterbury, New Zealand*; ^3^*Nalanda University, India*
 
 sergey.rosbakh@ur.de
 
@@ -66,15 +66,15 @@ Assembly of plant communities has long been scrutinized through the lens of trai
 
 \newpage
 
-### Seed germination responses to microclimatic conditions in alpine communities
+## Seed germination responses to microclimatic conditions in alpine communities
 
 ```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
 knitr::include_graphics("pics/oral.png")
 ```
 
-Espinosa del Alba, C. (1), Fernández-Pascual, E. (1) & Jiménez-Alfaro, B. (1)
+Espinosa del Alba, C.^1^, Fernández-Pascual, E.^1^, Jiménez-Alfaro, B.^1^
 
-(1)Biodiversity Research Institute (Univ.Oviedo-CSIC-Princ.Asturias), University of Oviedo, Mieres, Asturias, Spain
+^1^*University of Oviedo, Spain*
 
 espinosaclara@uniovi.es
 
@@ -82,31 +82,31 @@ Topographic roughness of alpine landscapes creates a mosaic of microhabitats ran
 
 \newpage
 
-### Identifying seed functional traits contributing to seed survival and plant regeneration in fire-prone ecosystems. 
+## Identifying seed functional traits contributing to seed survival and plant regeneration in fire-prone ecosystems
 
 ```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
 knitr::include_graphics("pics/oral.png")
 ```
 
-(1) Ryan Tangney (2) David J. Merritt (3) Ben P. Miller (4) Mark K.J. Ooi
+Tangney, R.^1^, Merritt, D.J.^2^, Miller, B.P.^3^, Ooi, M.K.J.^3^
 
-(1) 1Centre for Ecosystem Science, School of Biological, Earth and Environmental Sciences, University of New South Wales, Sydney, NSW 2052, Australia (2) 2Kings Park Science, Biodiversity and Conservation Science, Department of Biodiversity, Conservation and Attractions, 1 Kattidj Close, Kings Park, 6005, Western Australia, Australia (3) UWA School of Agriculture and Environment, The University of Western Australia, Perth WA 6009 (4) School of Biological Sciences, The University of Western Australia, Crawley, 6009, Western Australia, Australia (5) New South Wales Bushfire Risk Management Research Hub
+^1^*University of New South Wales, Australia*; ^2^*Kings Park Science, Australia*; ^3^*The University of Western Australia, Australia*
 
 R.Tangney@unsw.edu.au
 
-Regeneration from seed is a primary means of plant population persistence for many species in fire-prone environments. For plants to re-establish successfully following fire, their seeds must survive the fire event, be at a depth within the soil profile that allows for their emergence (i.e., not too deep) and be situated in a location that provides suitable access to light, water, and temperature for germination. Over the past seven years, we have been examining how seed traits influence seed survival and seedling emergence behavior in species from across Australia. Here we synthesize the results from our experimental fires in the field, and our controlled glasshouse and laboratory experiments. Seed lethal temperatures are strongly influenced by seed moisture content during exposure, and that seed size influences seed survival and seedling emergence. We have also identified three distinct functional responses based on lethal temperature thresholds and maximum seedling emergence depth that describe the varying sensitivity of species to fire severity. 1) Seeds that can emerge despite high soil temperatures. 2) Seeds that can only emerge because they are able to emerge from deep within the soil. 3) Seeds that have limited emergence depth but also die at low soil temperatures. Our current research is focused on the understanding critical thresholds in seeds that possess physical dormancy (PY). Collating data from 50 species from across Australia we have quantified the response of seeds to exposure to temperatures between 40 °C and 150 °C. From this we can understand the traits that seeds possess to survive through fire, germinate, and emerge, which can provide a deeper understanding of post-fire recovery processes and inform how changing climate and fire regimes may influence post-fire vegetation composition. Future work will examine the biochemical mechanisms that underpin seed survival including small heat-shock proteins and the role of fatty acids in seed coats. 
+Regeneration from seed is a primary means of plant population persistence for many species in fire-prone environments. For plants to re-establish successfully following fire, their seeds must survive the fire event, be at a depth within the soil profile that allows for their emergence (i.e., not too deep) and be situated in a location that provides suitable access to light, water, and temperature for germination. Over the past seven years, we have been examining how seed traits influence seed survival and seedling emergence behavior in species from across Australia. Here we synthesize the results from our experimental fires in the field, and our controlled glasshouse and laboratory experiments. Seed lethal temperatures are strongly influenced by seed moisture content during exposure, and that seed size influences seed survival and seedling emergence. We have also identified three distinct functional responses based on lethal temperature thresholds and maximum seedling emergence depth that describe the varying sensitivity of species to fire severity. 1) Seeds that can emerge despite high soil temperatures. 2) Seeds that can only emerge because they are able to emerge from deep within the soil. 3) Seeds that have limited emergence depth but also die at low soil temperatures. Our current research is focused on the understanding critical thresholds in seeds that possess physical dormancy (PY). Collating data from 50 species from across Australia we have quantified the response of seeds to exposure to temperatures between 40 ºC and 150 ºC. From this we can understand the traits that seeds possess to survive through fire, germinate, and emerge, which can provide a deeper understanding of post-fire recovery processes and inform how changing climate and fire regimes may influence post-fire vegetation composition. Future work will examine the biochemical mechanisms that underpin seed survival including small heat-shock proteins and the role of fatty acids in seed coats. 
 
 \newpage
 
-### Cracking the Code: Seed Coat Chemistry in Physically Dormant Seeds
+## Cracking the code: seed coat chemistry in physically dormant seeds
 
 ```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
 knitr::include_graphics("pics/oral.png")
 ```
 
-(1) McInnes, S.J. (2) Tangney, R. (3) Thordarson, P. (4) Ooi, M.K.J. 
+McInnes, S.J.^1^, Tangney, R.^1,2,3^, Thordarson, P.^1^, Ooi, M.K.J.^1^ 
 
-(1) School of Biological, Earth and Environmental Sciences, Centre for Ecosystem Science, University of New South Wales, Sydney, New South Wales, Australia; (2) School of Biological, Earth and Environmental Sciences, Centre for Ecosystem Science, University of New South Wales, Sydney, New South Wales, Australia; Kings Park Science, Biodiversity and Conservation Science, Department of Biodiversity, Conservation and Attractions, Kings Park, Western Australia, Australia; UWA School of Agriculture and Environment, The University of Western Australia, Perth, Western Australia, Australia; (3) School of Chemistry, Faculty of Science, The University of New South Wales, Sydney, New South Wales, Australia; The UNSW RNA Institute, The University of New South Wales, Sydney, New South Wales, Australia; (4) School of Biological, Earth and Environmental Sciences, Centre for Ecosystem Science, University of New South Wales, Sydney, New South Wales, Australia; NSW Bushfire Risk Management Research Hub, Sydney, New South Wales, Australia 
+^1^*University of New South Wales, Australia*; ^2^*Kings Park Science, Australia*; ^3^*The University of Western Australia, Australia*
 
 s.mcinnes@student.unsw.edu.au
 
@@ -114,47 +114,47 @@ Plant species in fire-prone ecosystems maintain dormant seeds in the soil which 
 
 \newpage
 
-### Burned fruits and heated seeds: are seeds still able to germinate?
+## Burned fruits and heated seeds: are seeds still able to germinate?
 
 ```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
 knitr::include_graphics("pics/oral.png")
 ```
 
-Fidelis, A. (1); Martins, R.G. (1); Zirondi, H.L. (1)
+Fidelis, A.^1^; Martins, R.G.^1^; Zirondi, H.L.^1^
 
-(1)Lab of Vegetation Ecology, Instituto de Biociências, Universidade Estadual Paulista (UNESP), Rio Claro, Brazil
+^1^*Universidade Estadual Paulista, Brazil*
 
 alessandra.fidelis@unesp.br
 
-In several flammable ecosystems, fire is responsible for triggering germination in different species. Smoke can stimulate germination in species with permeable seed coats, while heat shock can break dormancy of hard-coated seeds. However, less is known about what happens to seeds that are inside the fruits during fires: will the fruits be enough to protect seeds from being damaged by the flames? Will the heat stimulate seeds to germinate? Thus, we investigated if seeds inside the fruits during fire can germinate. We collected seeds from species with both permeable and impermeable seeds. Seeds were sampled before and after fire, from four Cerrado species and put them to germinate (27ºC, 12/12/ hs light, 30 days). Germination and viability percentages, and mean germination time was evaluated for all species. Although viability decreased from 98% to 54%, germination percentages were higher in seeds sampled in burned than in unburned fruits (57% and 11%, respectively) for Mimosa leiocephala (physical dormancy). Species with permeable seed coats showed different results: Jacaranda decurrens showed similar germination and viability percentages in both treatments, while Kielmeyera rubriflora showed a decrease in germination and viability for burned fruits. Our results showed that germination of seeds inside fruits during fire events may vary depending on seed coat permeability: species with physically dormant seeds were less damaged by fire, with an increase in germination percentages, while seeds with permeable coats had a decrease in both germination and viability. Thus, fire affect germination not only when seeds are in the seed bank but also before dispersion, showing the complexity of fire-responses to germination of Cerrado species.
+In several flammable ecosystems, fire is responsible for triggering germination in different species. Smoke can stimulate germination in species with permeable seed coats, while heat shock can break dormancy of hard-coated seeds. However, less is known about what happens to seeds that are inside the fruits during fires: will the fruits be enough to protect seeds from being damaged by the flames? Will the heat stimulate seeds to germinate? Thus, we investigated if seeds inside the fruits during fire can germinate. We collected seeds from species with both permeable and impermeable seeds. Seeds were sampled before and after fire, from four Cerrado species and put them to germinate (27ºC, 12/12/ hs light, 30 days). Germination and viability percentages, and mean germination time was evaluated for all species. Although viability decreased from 98% to 54%, germination percentages were higher in seeds sampled in burned than in unburned fruits (57% and 11%, respectively) for *Mimosa leiocephala* (physical dormancy). Species with permeable seed coats showed different results: *Jacaranda decurrens* showed similar germination and viability percentages in both treatments, while *Kielmeyera rubriflora* showed a decrease in germination and viability for burned fruits. Our results showed that germination of seeds inside fruits during fire events may vary depending on seed coat permeability: species with physically dormant seeds were less damaged by fire, with an increase in germination percentages, while seeds with permeable coats had a decrease in both germination and viability. Thus, fire affect germination not only when seeds are in the seed bank but also before dispersion, showing the complexity of fire-responses to germination of Cerrado species.
 
 \newpage
 
-### In situ seed storage affects germination responses to fire-related cues in Cerrado species
+## In situ seed storage affects germination responses to fire-related cues in Cerrado species
 
 ```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
 knitr::include_graphics("pics/poster.png")
 ```
 
-Zirondi, H.L. (1); Ooi, M. (2,3); Silveira, F. A. O. (4); Fidelis, A. (1)
+Zirondi, H.L.^1^, Ooi, M.K.J.^2,3^, Silveira, F.A.O.^4^, Fidelis, A.^1^
 
-(1) Instituto de Biociências, Departamento de Biodiversidade, Universidade Estadual Paulista (UNESP), Rio Claro, Brazil; (2) Centre for Ecosystem Science, School of Biological, Earth and Environmental Sciences, University of New South Wales (UNSW), Australia; (3) New South Wales Bushfire Risk Management Research Hub, Australia; (4) Instituto de Ciências Biológicas, Departamento de Genética, Ecologia e Evolução, Universidade Federal de Minas Gerais (UFMG), Belo Horizonte, Brazil
+^1^*Universidade Estadual Paulista, Brazil*; ^2^*University of New South Wales, Australia*; ^3^*New South Wales Bushfire Risk Management Research Hub, Australia*; ^4^*Universidade Federal de Minas Gerais, Brazil*
 
 heloiza.l.zirondi@unesp.br
 
-Fire-related cues are known to influence germination and seedling establishment processes in fire-prone ecosystems. However, most tests use fresh seeds and the role of seed storage in soil seed banks in shaping response to fire-related cues remains unappreciated. We aimed to investigate whether in situ seed storage (buried in the field) would affect seed germination responses to heat shock and smoke. We collected freshly dispersed seeds (beginning of the dry season) of five Cerrado species. For each species, seeds were sorted and separated into four batches. Fresh seeds were exposed to germination experiments following seed collection (Fresh T0) and the remaining seeds were buried in the field (1cm depth) in six different plots in Cerrado vegetation. Batches were unearthed after three (T3), six (T6), and nine (T9) months. Seeds from each treatment (T0, T3, T6, and T9) were exposed to heat shock (100ºC and 200ºC for 1') and smoke experiments (1:1 smoke solution, 24 hr). Then, seeds were put to germinate in germination chambers at controlled conditions (12h/12h light and dark, 27 °C) for 30 days. Our results showed that seed storage time affected germination responses to fire-related cues in all tested species. Three species with permeable seed coats had an increase in germination when exposed to smoke after three and six months buried in situ. Most of them were recruited when the rainy season started at T6. The two physically dormant species, Sida linifolia and Waltheria communis had an increase in germination percentages of at least three-fold at 200°C according to storage time with the highest germination at T9 (70±20.82% and 71.67±6.45%, respectively). Therefore, in situ seed storage affects germination response to fire-related cues, suggesting that recruitment from seeds in fire-prone tropical savannas is more complex than previously thought.
+Fire-related cues are known to influence germination and seedling establishment processes in fire-prone ecosystems. However, most tests use fresh seeds and the role of seed storage in soil seed banks in shaping response to fire-related cues remains unappreciated. We aimed to investigate whether in situ seed storage (buried in the field) would affect seed germination responses to heat shock and smoke. We collected freshly dispersed seeds (beginning of the dry season) of five Cerrado species. For each species, seeds were sorted and separated into four batches. Fresh seeds were exposed to germination experiments following seed collection (Fresh T0) and the remaining seeds were buried in the field (1cm depth) in six different plots in Cerrado vegetation. Batches were unearthed after three (T3), six (T6), and nine (T9) months. Seeds from each treatment (T0, T3, T6, and T9) were exposed to heat shock (100ºC and 200ºC for 1') and smoke experiments (1:1 smoke solution, 24 hr). Then, seeds were put to germinate in germination chambers at controlled conditions (12h/12h light and dark, 27 ºC) for 30 days. Our results showed that seed storage time affected germination responses to fire-related cues in all tested species. Three species with permeable seed coats had an increase in germination when exposed to smoke after three and six months buried in situ. Most of them were recruited when the rainy season started at T6. The two physically dormant species, *Sida linifolia* and *Waltheria communis* had an increase in germination percentages of at least three-fold at 200ºC according to storage time with the highest germination at T9 (70±20.82% and 71.67±6.45%, respectively). Therefore, in situ seed storage affects germination response to fire-related cues, suggesting that recruitment from seeds in fire-prone tropical savannas is more complex than previously thought.
 
 \newpage
 
-### TESTA EXTENSIONS IN ORCHID SEEDS: MECHANISMS TO ATTACH THE BARK OF TREES
+## Testa extensions in orchid seeds: mechanisms to attach the bark of trees
 
 ```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
 knitr::include_graphics("pics/poster.png")
 ```
 
-Ortúñez, E., Gamarra, R. and Valdelvira, G.
+Ortúñez, E.^1^, Gamarra, R.^1^, Valdelvira, G.^1^
 
-Departamento de Biología, Universidad Autónoma de Madrid, Spain
+^1^*Universidad Autónoma de Madrid, Spain*
 
 Roberto.gamarra@uam.es
 
@@ -162,16 +162,16 @@ In Orchidaceae, testa extensions have been observed in obligate epiphytes, usual
 
 \newpage
 
-### Alien and native seed germination performance might shape the species assembly of temperate grasslands under a global warming scenario
+## Alien and native seed germination performance might shape the species assembly of temperate grasslands under a global warming scenario
 
 ```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
 knitr::include_graphics("pics/poster.png")
 ```
 
-Trotta G. (1,2), Vuerich M. (1), Boscutti F. (1), Manzoni L. (1), Petrussa E. (1)
+Trotta, G.^1,2^, Vuerich, M.^1^, Boscutti, F.^1^, Manzoni, L.^1^, Petrussa, E.^1^
 
-(1) University of Udine, Italy; (2) University of Trieste, Italy
+^1^*University of Udine, Italy*; ^2^*University of Trieste, Italy*
 
 giacomo.trotta@phd.units.it
 
-Global warming is rapidly altering our ecosystem in terms of biodiversity, functions and services loss. The rising temperatures have often shown the ability to enhance biological invasion by facilitating spread and growth of alien species in the new lands. The success of plant invasion requires the overcome of multiple biological barriers. Among the crucial life stages, seed germination greatly contributes to the final species assembly of plant community. Several studies have already suggested that alien plant success is likely linked to their high seed germination rates and longevity. We hypothesized these traits to be further enhanced by future temperature rise. Among terrestrial ecosystems, temperate dry grasslands are considered important hotspot of biodiversity, but also among the most prone ecosystems to biological invasions. In these habitats, Asteraceae is one of the most represented family, in terms of abundance and number of species, for both alien and native plants. In this scenario, we designed a germination test experiment at two temperatures (i.e., 22 °C and 28 °C) including common Asteraceae grassland species, considering native and alien species (split into archaeophyte and neophyte). Our aim was to test the relationship between seed germination, temperature, and their interaction with alien status. The test was performed on both separated and mixed pools of species by using a full-factorial orthogonal design. We expect to find a decrease/delay in native species germination compared with alien seeds with the increasing temperature. We also suppose alien species germination to affect the final species assembly of mixed germination plates, by inhibiting local species germination, also in the light of plausible allelopathic interactions. These results will give important information on future management actions aimed at curbing alien plant invasions, by improving our knowledge on seed-bank response and interactions mechanisms of common species occurring in natural disturbed areas or restoration sites.
+Global warming is rapidly altering our ecosystem in terms of biodiversity, functions and services loss. The rising temperatures have often shown the ability to enhance biological invasion by facilitating spread and growth of alien species in the new lands. The success of plant invasion requires the overcome of multiple biological barriers. Among the crucial life stages, seed germination greatly contributes to the final species assembly of plant community. Several studies have already suggested that alien plant success is likely linked to their high seed germination rates and longevity. We hypothesized these traits to be further enhanced by future temperature rise. Among terrestrial ecosystems, temperate dry grasslands are considered important hotspot of biodiversity, but also among the most prone ecosystems to biological invasions. In these habitats, Asteraceae is one of the most represented family, in terms of abundance and number of species, for both alien and native plants. In this scenario, we designed a germination test experiment at two temperatures (i.e., 22 ºC and 28 ºC) including common Asteraceae grassland species, considering native and alien species (split into archaeophyte and neophyte). Our aim was to test the relationship between seed germination, temperature, and their interaction with alien status. The test was performed on both separated and mixed pools of species by using a full-factorial orthogonal design. We expect to find a decrease/delay in native species germination compared with alien seeds with the increasing temperature. We also suppose alien species germination to affect the final species assembly of mixed germination plates, by inhibiting local species germination, also in the light of plausible allelopathic interactions. These results will give important information on future management actions aimed at curbing alien plant invasions, by improving our knowledge on seed-bank response and interactions mechanisms of common species occurring in natural disturbed areas or restoration sites.

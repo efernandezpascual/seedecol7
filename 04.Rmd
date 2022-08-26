@@ -2,7 +2,7 @@
 
 \cleardoublepage
 
-### Identifying conservation and knowledge gaps in cultivated Brassicaceae: characterization of functional traits in crop wild relatives
+## Identifying conservation and knowledge gaps in cultivated Brassicaceae: characterization of functional traits in crop wild relatives
 
 ```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
 knitr::include_graphics("pics/oral.png")
@@ -18,7 +18,7 @@ Wild species hold a key source of diversity to improve and help adapt our tradit
 
 \newpage
 
-### Towards a tropical seed and germination trait database
+## Towards a tropical seed and germination trait database
 
 ```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
 knitr::include_graphics("pics/oral.png")
@@ -34,7 +34,7 @@ A broad understanding of the ecology and evolution of seed traits depends critic
 
 \newpage
 
-### Looking for the orthogonality of germination indexes: minimalism meets seeds functional ecology
+## Looking for the orthogonality of germination indexes: minimalism meets seeds functional ecology
 
 ```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
 knitr::include_graphics("pics/oral.png")
@@ -50,7 +50,7 @@ The advancement of seed functional ecology relies on the proper characterization
 
 \newpage
 
-### An image analysis tool for automated extraction of diaspore morphological traits
+## An image analysis tool for automated extraction of diaspore morphological traits
 
 ```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
 knitr::include_graphics("pics/oral.png")
@@ -66,7 +66,7 @@ The field of comparative morphology of diaspores provides basis for the characte
 
 \newpage
 
-### The seed trait handbook
+## The seed trait handbook
 
 ```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
 knitr::include_graphics("pics/oral.png")
