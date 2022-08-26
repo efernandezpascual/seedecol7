@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.8.25)  26 AUG 2022 13:41
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.8.25)  26 AUG 2022 13:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -450,44 +450,44 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 )
 \Hy@SectionHShift=\skip72
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 94.
+Package hyperref Info: Option `colorlinks' set `true' on input line 93.
 (./seedecol7.aux)
 \openout1 = `seedecol7.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 107.
-LaTeX Font Info:    ... okay on input line 107.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 107.
-LaTeX Font Info:    ... okay on input line 107.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 107.
-LaTeX Font Info:    ... okay on input line 107.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 107.
-LaTeX Font Info:    ... okay on input line 107.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 107.
-LaTeX Font Info:    ... okay on input line 107.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 107.
-LaTeX Font Info:    ... okay on input line 107.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 107.
-LaTeX Font Info:    ... okay on input line 107.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 107.
-LaTeX Font Info:    ... okay on input line 107.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 107.
-LaTeX Font Info:    ... okay on input line 107.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 107.
-LaTeX Font Info:    ... okay on input line 107.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 106.
+LaTeX Font Info:    ... okay on input line 106.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/lmr/m/n --> TU/lmr/m/n on input line 107.
+(Font)                  OT1/lmr/m/n --> TU/lmr/m/n on input line 106.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/lmr/m/it --> TU/lmr/m/it on input line 107.
+(Font)                  OT1/lmr/m/it --> TU/lmr/m/it on input line 106.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/lmr/bx/n --> TU/lmr/bx/n on input line 107.
+(Font)                  OT1/lmr/bx/n --> TU/lmr/bx/n on input line 106.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/lmss/m/n --> TU/lmss/m/n on input line 107.
+(Font)                  OT1/lmss/m/n --> TU/lmss/m/n on input line 106.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/lmss/bx/n --> TU/lmss/bx/n on input line 107.
+(Font)                  OT1/lmss/bx/n --> TU/lmss/bx/n on input line 106.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/lmtt/m/n --> TU/lmtt/m/n on input line 107.
+(Font)                  OT1/lmtt/m/n --> TU/lmtt/m/n on input line 106.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/lmtt/m/n --> TU/lmtt/bx/n on input line 107.
+(Font)                  OT1/lmtt/m/n --> TU/lmtt/bx/n on input line 106.
 
 Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
 
@@ -513,7 +513,7 @@ Package fontspec Info: Font family 'latinmodern-math.otf(0)' created for font
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
 
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(0)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 107.
+(Font)              scaled to size 10.0pt on input line 106.
 
 Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
 
@@ -545,15 +545,15 @@ Package fontspec Info: Font family 'latinmodern-math.otf(1)' created for font
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
 
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 107.
+(Font)              scaled to size 10.0pt on input line 106.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 107.
+(Font)              `operators' in the math version `normal' on input line 106.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/lmr/m/n --> TU/latinmodern-math.otf(1)/m/n on input line 107.
+(Font)                  OT1/lmr/m/n --> TU/latinmodern-math.otf(1)/m/n on input line 106.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 107.
+(Font)              `operators' in the math version `bold' on input line 106.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/lmr/bx/n --> TU/latinmodern-math.otf(1)/b/n on input line 107.
+(Font)                  OT1/lmr/bx/n --> TU/latinmodern-math.otf(1)/b/n on input line 106.
 
 Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
 
@@ -632,13 +632,13 @@ Package fontspec Info: Font family 'latinmodern-math.otf(2)' created for font
 (fontspec)             \fontdimen 21\font =0pt\relax 
 
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
-(Font)              `symbols' in the math version `normal' on input line 107.
+(Font)              `symbols' in the math version `normal' on input line 106.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
-(Font)                  OMS/lmsy/m/n --> TU/latinmodern-math.otf(2)/m/n on input line 107.
+(Font)                  OMS/lmsy/m/n --> TU/latinmodern-math.otf(2)/m/n on input line 106.
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
-(Font)              `symbols' in the math version `bold' on input line 107.
+(Font)              `symbols' in the math version `bold' on input line 106.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
-(Font)                  OMS/lmsy/b/n --> TU/latinmodern-math.otf(2)/b/n on input line 107.
+(Font)                  OMS/lmsy/b/n --> TU/latinmodern-math.otf(2)/b/n on input line 106.
 
 Package fontspec Info: latinmodern-math scale = 0.9999964596882403.
 
@@ -699,13 +699,13 @@ Package fontspec Info: Font family 'latinmodern-math.otf(3)' created for font
 (fontspec)             =6.0pt\relax \fontdimen 13\font =0pt\relax 
 
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
-(Font)              `largesymbols' in the math version `normal' on input line 107.
+(Font)              `largesymbols' in the math version `normal' on input line 106.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
-(Font)                  OMX/lmex/m/n --> TU/latinmodern-math.otf(3)/m/n on input line 107.
+(Font)                  OMX/lmex/m/n --> TU/latinmodern-math.otf(3)/m/n on input line 106.
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
-(Font)              `largesymbols' in the math version `bold' on input line 107.
+(Font)              `largesymbols' in the math version `bold' on input line 106.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
-(Font)                  OMX/lmex/m/n --> TU/latinmodern-math.otf(3)/b/n on input line 107.
+(Font)                  OMX/lmex/m/n --> TU/latinmodern-math.otf(3)/b/n on input line 106.
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
 *geometry* verbose mode - [ preamble ] result:
@@ -747,46 +747,41 @@ Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: dvipdfm (xetex) on input line 98.
 )
-Package hyperref Info: Link coloring ON on input line 107.
+Package hyperref Info: Link coloring ON on input line 106.
 (./seedecol7.out) (./seedecol7.out)
 \@outlinefile=\write3
 \openout3 = `seedecol7.out'.
 
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 12.0pt on input line 109.
+(Font)              scaled to size 12.0pt on input line 108.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 109.
+(Font)              scaled to size 8.0pt on input line 108.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 6.0pt on input line 109.
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 109.
+(Font)              scaled to size 6.0pt on input line 108.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 108.
 (c:/Users/X/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 12.0011pt on input line 109.
+(Font)              scaled to size 12.0011pt on input line 108.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 8.00073pt on input line 109.
+(Font)              scaled to size 8.00073pt on input line 108.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 6.00055pt on input line 109.
+(Font)              scaled to size 6.00055pt on input line 108.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 11.99872pt on input line 109.
+(Font)              scaled to size 11.99872pt on input line 108.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 7.99915pt on input line 109.
+(Font)              scaled to size 7.99915pt on input line 108.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 5.99936pt on input line 109.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 109.
+(Font)              scaled to size 5.99936pt on input line 108.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 108.
 (c:/Users/X/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 109.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 108.
 (c:/Users/X/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-Overfull \hbox (732.56752pt too wide) in paragraph at lines 109--109
- [][] 
- []
-
-[1
+) [1
 
 
 ] [2
@@ -797,7 +792,29 @@ Overfull \hbox (732.56752pt too wide) in paragraph at lines 109--109
 
 [3] [4
 
-] [5] [6
+]
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 7.0pt on input line 123.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 5.0pt on input line 123.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 10.00092pt on input line 123.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 7.00064pt on input line 123.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 5.00046pt on input line 123.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 9.99893pt on input line 123.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 6.99925pt on input line 123.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 4.99947pt on input line 123.
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--124
+[][][][][][][][][][][][][][][][][] [] [][][] [] [][][][][][][][][][][][][][][][][] [] [][][][][][][][][] [] [][][][] [] [][][][] []
+ []
+
+[5] [6
 
 ]
 Chapter 1.
@@ -824,22 +841,6 @@ Chapter 2.
 ]
 File: pics/oral.png Graphic file (type bmp)
 <pics/oral.png>
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 7.0pt on input line 192.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 5.0pt on input line 192.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 10.00092pt on input line 192.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.00064pt on input line 192.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.00046pt on input line 192.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 9.99893pt on input line 192.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 6.99925pt on input line 192.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 4.99947pt on input line 192.
 [15] [16]
 File: pics/oral.png Graphic file (type bmp)
 <pics/oral.png>
@@ -918,7 +919,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.76004pt}.
 
 [31]
-Underfull \hbox (badness 1043) in paragraph at lines 330--330
+Underfull \hbox (badness 1043) in paragraph at lines 333--333
 []\TU/lmr/bx/n/12 Drivers and functional consequences of an
  []
 
@@ -1063,7 +1064,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 File: pics/poster.png Graphic file (type bmp)
 <pics/poster.png>
 
-Underfull \hbox (badness 1603) in paragraph at lines 454--455
+Underfull \hbox (badness 1603) in paragraph at lines 457--458
 []\TU/lmr/m/n/10 Seed arrival is a crucial necessary ecological process during the
  []
 
@@ -1188,7 +1189,7 @@ File: pics/oral.png Graphic file (type bmp)
 File: pics/oral.png Graphic file (type bmp)
 <pics/oral.png>
 
-Underfull \hbox (badness 2253) in paragraph at lines 607--608
+Underfull \hbox (badness 2253) in paragraph at lines 610--611
 \TU/lmr/m/n/10 differential germination responses to temperature and light may
  []
 
@@ -1262,7 +1263,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 File: pics/oral.png Graphic file (type bmp)
 <pics/oral.png>
 
-Overfull \hbox (5.89934pt too wide) in paragraph at lines 818--819
+Overfull \hbox (5.89934pt too wide) in paragraph at lines 821--822
 []\TU/lmr/m/n/10 Biodiversity Research Institute (Univ.Oviedo-CSIC-Princ.Asturias),
  []
 
@@ -1300,14 +1301,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.76004pt}.
 
 [89]
-Underfull \hbox (badness 1803) in paragraph at lines 849--849
+Underfull \hbox (badness 1803) in paragraph at lines 852--852
 []\TU/lmr/bx/n/12 Germination protocol for herbarium-stored
  []
 
 File: pics/oral.png Graphic file (type bmp)
 <pics/oral.png>
 
-Underfull \hbox (badness 1565) in paragraph at lines 860--861
+Underfull \hbox (badness 1565) in paragraph at lines 863--864
 \TU/lmr/m/n/10 Evolutionary Biology, Harvard University Herbaria, Harvard
  []
 
@@ -1355,17 +1356,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.76004pt}.
 
 [94]
-Underfull \hbox (badness 2012) in paragraph at lines 907--907
+Underfull \hbox (badness 2012) in paragraph at lines 910--910
 []\TU/lmr/bx/n/12 Inter-population variability in seed germi-
  []
 
 
-Underfull \hbox (badness 4072) in paragraph at lines 907--907
+Underfull \hbox (badness 4072) in paragraph at lines 910--910
 \TU/lmr/bx/n/12 nation, reproductive ecology and genetic
  []
 
 
-Underfull \hbox (badness 1924) in paragraph at lines 907--907
+Underfull \hbox (badness 1924) in paragraph at lines 910--910
 \TU/lmr/bx/n/12 ula raineri, Campanulaceae): insights for
  []
 
@@ -1477,7 +1478,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.76004pt}.
 
 [106]
-Underfull \hbox (badness 1348) in paragraph at lines 1028--1028
+Underfull \hbox (badness 1348) in paragraph at lines 1031--1031
 []\TU/lmr/bx/n/12 Enhancing direct seeding with unmanned
  []
 
@@ -1591,7 +1592,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.76004pt}.
 
 [118]
-Underfull \hbox (badness 1117) in paragraph at lines 1175--1175
+Underfull \hbox (badness 1117) in paragraph at lines 1178--1178
 \TU/lmr/bx/n/12 translocation, native seed use, and plant
  []
 
@@ -1641,7 +1642,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.76004pt}.
 
 [123]
-Underfull \hbox (badness 10000) in paragraph at lines 1238--1238
+Underfull \hbox (badness 10000) in paragraph at lines 1241--1241
 []\TU/lmr/bx/n/12 ECOLOGY AND PHYSIOLOGY OF
  []
 
@@ -1663,7 +1664,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.76004pt}.
 
 [125]
-Underfull \hbox (badness 1248) in paragraph at lines 1259--1259
+Underfull \hbox (badness 1248) in paragraph at lines 1262--1262
 []\TU/lmr/bx/n/12 Seed priming to optimize germination in
  []
 
@@ -1812,7 +1813,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 File: pics/oral.png Graphic file (type bmp)
 <pics/oral.png>
 
-Underfull \hbox (badness 1478) in paragraph at lines 1421--1422
+Underfull \hbox (badness 1478) in paragraph at lines 1424--1425
 \TU/lmr/m/n/10 Palacky University Olomouc, Czech Republic; (3) Syngenta
  []
 
@@ -1914,12 +1915,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.76004pt}.
 
 [152]
-Underfull \hbox (badness 1264) in paragraph at lines 1538--1538
+Underfull \hbox (badness 1264) in paragraph at lines 1541--1541
 []\TU/lmr/bx/n/12 Environmental thermal regulation of dor-
  []
 
 
-Underfull \hbox (badness 3271) in paragraph at lines 1538--1538
+Underfull \hbox (badness 3271) in paragraph at lines 1541--1541
 \TU/lmr/bx/n/12 mancy in Echinochloa crus-galli (L.) P.
  []
 
@@ -1989,7 +1990,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.76004pt}.
 
 [159]
-Underfull \hbox (badness 1874) in paragraph at lines 1628--1628
+Underfull \hbox (badness 1874) in paragraph at lines 1631--1631
 []\TU/lmr/bx/n/12 Cone/seed morphometry and germination
  []
 
@@ -2013,7 +2014,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-10.76004pt}.
 
 [161]
-Underfull \hbox (badness 1337) in paragraph at lines 1670--1670
+Underfull \hbox (badness 1337) in paragraph at lines 1673--1673
 []\TU/lmr/bx/n/12 Ecophysiology seed traits of Devil’s claw
  []
 
@@ -2101,7 +2102,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 ]
 Chapter 8.
 
-Underfull \hbox (badness 2134) in paragraph at lines 1754--1756
+Underfull \hbox (badness 2134) in paragraph at lines 1757--1759
 []\TU/lmr/m/n/10 Eduardo Fernández-Pascual (co-chair), University of Oviedo
  []
 
@@ -2116,7 +2117,7 @@ Package rerunfilecheck Info: File `seedecol7.out' has not changed.
 Here is how much of TeX's memory you used:
  19030 strings out of 477833
  355089 string characters out of 5844634
- 837268 words of memory out of 5000000
+ 835552 words of memory out of 5000000
  39713 multiletter control sequences out of 15000+600000
  475702 words of font info for 80 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191

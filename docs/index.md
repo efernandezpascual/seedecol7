@@ -1,8 +1,6 @@
 --- 
 title: "Seed Ecology VII - Book of Abstracts"
-subtitle: "https://www.unioviedo.es/seedecol7/"
-author: "Cite as: Seed Ecology VII (2022) Book of Abstracts of the 7th Seed Ecology Conference of the International Society for Seed Science. Gijón/Xixón, Asturias, Spain. September 6 to September 9, 2022."
-date: "2022-08-26"
+subtitle: "[unioviedo.es/seedecol7](https://www.unioviedo.es/seedecol7/)"
 site: bookdown::bookdown_site
 documentclass: book
 output: 
@@ -37,3 +35,7 @@ header-includes:
 # Preface {-}
 
 The seventh edition of the Seed Ecology Conference of the International Society for Seed Science takes place in Gijón/Xixón, Asturias (Spain) from September 6 to September 9, 2022.
+
+Cite this book of abstracts as *Seed Ecology VII (2022) Book of Abstracts of the 7th Seed Ecology Conference of the International Society for Seed Science. Gijón/Xixón, Asturias, Spain. September 6 to September 9, 2022*.
+
+Download a pdf version of the book of abstracts [here](https://raw.githubusercontent.com/efernandezpascual/seedecol7/main/docs/seedecol7.pdf). 
