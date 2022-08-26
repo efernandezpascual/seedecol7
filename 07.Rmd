@@ -1,0 +1,355 @@
+# Environmental control of seed germination timing
+
+\cleardoublepage
+
+### Smaller, lighter, later: effects of a future warmer and drier climate on alpine seeds and seedlings
+
+```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
+knitr::include_graphics("pics/oral.png")
+```
+
+Vázquez-Ramírez, J. (1) and Venn, S.E. (1)
+
+(1) Deakin University, Australia
+
+jvazquezramirez@deakin.edu.au
+
+Early plant life-history stages, such as germination and seedling establishment, are considered highly vulnerable to climate change and are important to species persistence because they could represent a bottleneck to future recruitment. The strong relationship between the changing climatic factors and early life-history stages suggests that they will be significantly affected. Here, we present the results of a field manipulative experiment where we looked at how (i) seed maturation, (ii) seed germination and (iii) seedling establishment of ten alpine species will respond to a future warmer and drier climate. For this, we established a two-factorial experiment at the Australian Alps. We created warmer and drier conditions using modified open-top chambers. Then, to determine the effects of our experimental treatments in the studied life stages, we: (i) collected seeds from plants inside the chambers and contrasted their mass, size, viability and cotyledons size and greenness against seeds collected in control plots; (ii) we buried seeds inside mesh bags and recorded their monthly germination; and (iii) we planted seedlings and measured their monthly growth and survival. Overall, we find negative and neutral effects of our experimental treatments in the studied life stages. (i) Seeds from plants inside the chambers were significantly lighter and smaller and had smaller and less green cotyledons in almost all species. (ii) The final proportion of germinated seeds was negatively affected by warmer and drier conditions in all species. More importantly, warmer and drier conditions also affected the germination time, where most germination occurred later in the snow-free season compared to control sites. (iii) Seedling survival and growth were negatively affected by warmer and drier conditions. Finally, we discuss some of the potential implications of our findings and their significance to our understanding of future plant recruitment in alpine areas.
+
+\newpage
+
+### Germination patterns under climate change in the plants of the Central Anatolian steppe
+
+```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
+knitr::include_graphics("pics/oral.png")
+```
+
+Degirmenci, C.Ü. (1), Çulha-Erdal, S. (1), Nashat, O.K. (1), Yirmibes, S. (1), Dalli, E. (1), Tatar, H. (1), Bekdemir, S. (2), Özcan, S. (2), Songer, S. (1), Samur, B. (1), Çiçek, N. (1), Yaprak, A.E. (2), Ekmekçi, Y., Tavsanoglu, Ç. (1)
+
+(1) Hacettepe University, Turkey; (2) Ankara University, Turkey
+
+ctavsanoglu@gmail.com
+
+Climate change may affect plant community composition and dynamics by altering seed germination patterns in several ecosystems. In this study, we studied the germination response of 80 plant species from Central Anatolian steppes, an area falls within the Irano-Anatolian global biodiversity hotspot, to various incubation temperatures, cold stratification, and drought/salinity conditions. Seeds were collected from natural habitats in Central Anatolia, Turkey. The fixed and alternate incubation temperatures (10, 15, 20, 25, 30, 35, 20/10, 25/15, 30/20, 25/35 °C), a cold stratification treatment (4 °C for 30 days), and drought and salt stress with various osmotic potential levels (0, -0.25, -0.50, -0.75, -1.00 MPa of PEG 6000 and NaCl) were examined in the study. Temperature experiments were performed under complete dark and photoperiod (12h:12h dark/light) conditions, while drought and salinity tolerance tests were conducted under 20°C temperature and 12h:12h photoperiod conditions. Germination checks lasted for 40 days for each experiment. Germination data were analyzed using the analysis of deviance assuming a binomial distribution. Germination responses of the species to different incubation temperatures and cold stratification were idiosyncratic at the species level. The germination percentages decreased in some species as incubation temperature increased, but some species showed the opposite pattern. On the contrary, the germination percentage gradually decreased with increased PEG 6000 and salinity levels. However, the tolerance limit to drought and salt stress was also idiosyncratic as the maximum osmotic potential that plant species can tolerate was different. Some species such as Bassia prostata, Eremophyrum triticeum, Fumana aciphylla, Salsola stenoptera, and Taeniatherium caput-medusae showed high germination percentages even at the highest level of incubation temperature and stress treatments. The results indicate species-specific germination response to temperature, drought, and salt stress and suggest that seed germination patterns in steppe plant communities of Central Anatolia can significantly be altered by climate change.
+
+\newpage
+
+### Adaptation of European beech (Fagus sylvatica L.) to the variable environments in the term of seed germination
+
+```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
+knitr::include_graphics("pics/oral.png")
+```
+
+Pawłowski T.A., Suszka J., Mucha J., Zadworny M., Chmura D.J., Chmielarz P., Jagodziński A.M., Alipour S., Kurpisz B.
+
+Institute of Dendrology, Polish Academy of Sciences, Parkowa 5, 62-035 Kórnik, Poland
+
+tapawlow@man.poznan.pl
+
+Global climate change alters environmental conditions, and thus affects the reproduction of plants from seeds. The mechanism underlying climate adaptation is a key element in predicting the potential of species to face climate warming. One of the adaptations to environmental conditions is the dormancy phenomenon, which allows the coordination of seed germination and plant establishment with the environment. This work focuses on presenting the adaptation mechanism of beech to the various environments, with emphasis on the prospective role in adaptation to the changing climate. Beech seeds from 26 Polish climatic provenances were investigated in terms of seed dormancy depth and germination and seedling traits. Any correlations between these traits and the environmental conditions in the habitat of each investigated beech stand were investigated. Results showed that climatic characteristics of seeds provenances more strongly affect seed characteristics than seedling parameters. Variation was statistically significant between the two regions of seed origin. The group of northern populations started to germinate later (by 3 weeks), and had a longer average time to germination (by 2 weeks), but a shorter duration of germination time (by 1 week) than the group of southern populations. Beech seed dormancy and germination depend on latitude, longitude and precipitation seasonality. Especially germination capacity depended on the climatic conditions in the population stand, and differentiation in temperature and precipitation seasonality was the significant factor. All tested seedling traits differed among seed origins. The effect of seed characteristics on seedling traits was observed. The observed link between seed germination, seedling growth and climatic conditions may imply that in the face of global warming, increasing temperature and decreasing precipitation can be the limiting factors for beech populations. This research was supported by Project No. 2019/33/B/NZ9/02660 funded by the National Science Centre, Poland, to Pawłowski T.A.
+
+\newpage
+
+### Multiple relations between seed traits and germination performance change with temperature
+
+```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
+knitr::include_graphics("pics/oral.png")
+```
+
+Saatkamp, A. (1), Leclerc, L. (1), Guerchet, V. (1), Vandelook, F. (2)
+
+(1) Institut Méditerranéen de Biodiversité et d’Ecologie (IMBE), Aix Marseille Univ, CNRS, IRD, Avignon Univ, Marseille, France; (2) Meise Botanic Garden, Meise, Belgium
+
+arne.saatkamp@imbe.fr
+
+Global warming triggers multiple responses in plant populations and communities. Since seed functional traits are essential co-variates to understand germination timing but also survival during the seed bank stage it is crucial to know whether these relationships remain stable across -or vary over- environmental temperatures. Here we present the relationships between seed traits and germination speed at different exposure temperatures for 37 herbaceous species. At low temperatures (10°C) germination rates increase with shape, lightness, and ratio of embryo to seed. At intermediate temperatures (20°C), germination rates decrease with mass, but increase with embryo to seed ratio and terminal velocity. At high temperatures (30°C), germination rates decrease with seed shape. Our work demonstrates the importance of temperature for studying seed trait – performance relations and we suggest to proceed with studying seed-related processes at different temperatures in the seed environment.
+
+\newpage
+
+### Environment and polyploidy affect germination of rare shrub species
+
+```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
+knitr::include_graphics("pics/oral.png")
+```
+
+Guja, LK. (1,2), Chan, JCS. (3) and Ooi, MKJ. (3)
+
+(1) National Seed Bank, Australian National Botanic Gardens, Parks Australia, Canberra, ACT, Australia; (2) Centre for Australian National Biodiversity Research, a joint venture between Parks Australia and CSIRO, Canberra, ACT, Australia; (3) Centre for Ecosystem Science, School of Biological Earth and Environmental Sciences, University of New South Wales, Sydney, NSW, Australia
+
+Lydia.Guja@environment.gov.au
+Ploidy and species threat status have both been linked to variation in phenotypic and 
+phenological seed and seedling traits, including seed size, germination rate (speed) and seedling stature. We determined whether ploidy (the heritable condition of possessing more than two chromosome sets) and range size (related to threat status) are associated with variation in seed and seedling traits that might limit the regeneration performance of obligate seeders in fire-prone systems. We investigated Pomaderris, a genus of shrubs that includes many threatened species of conservation concern and both diploid and polyploid taxa. We experimentally quantified seed dormancy and germination using fire-related heat treatments and evaluated seedling performance under drought stress. We also examined the association of seed size with other seed and seedling traits; and investigated the temperature thresholds for dormancy alleviation. Polyploids had bigger seeds, a faster germination rate and larger and taller seedlings than diploids. There was a lack of any clear relationship between range size and seed or seedling traits. Dormancy alleviation thresholds appeared to be linked to habitat. The ploidy effects observed for many traits are likely to be indirect and associated with the underlying seed size differences. These findings indicate a higher potential competitive advantage in polyploid than diploid Pomaderris during regeneration, a critical stage in the post-fire environment. These insights to the regeneration phase can inform conservation seed banking and may need to be considered when planning and prioritizing management of threatened species.
+
+\newpage
+
+### Molecular mechanisms of allelochemicals in germination and seedling establishment
+
+```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
+knitr::include_graphics("pics/oral.png")
+```
+
+Leubner-Metzger, G. (1,2), Nakabayashi, K. (1), Steinbrecher, T. (1), Tarkowska, D. (2), Pérez, M. (1), Voegele, A. (1), Stock, D. (3), Cohn, J. (3), Irwin, D. (3), Garcia, L. (3) Seville, A. (3), Guida-English, S. (4), Novak, O. (2), Strnad, M. (2)
+
+(1) Royal Holloway University of London, United Kingdom; (2) Palacky University Olomouc, Czech Republic; (3) Syngenta Jealott's Hill, UK, and Research Triangle Park, USA; (4) National Centre for Genome Research Santa Fe, USA
+
+Gerhard.Leubner@rhul.ac.uk
+
+How phytotoxic allelochemicals interfere with seed germination and seedling establishment is largely unknown. Knowledge of the underpinning molecular mechanisms is however decisive for the chemical ecology of plant competition and the dynamics of natural plant communities. In contrast to most synthetic phytotoxic chemicals (xenobiotics), natural compounds in general have multiple molecular targets and numerous bioactivities. We demonstrate here that the flavonoid myrigalone A (MyA), a rare dihydrochalcone and putative allelochemical in the fruit leachates of Myrica gale (bog myrtle), inhibits the seed germination and seedling growth of target species via multiple molecular pathways. Allelopathy assays using Lepidium sativum (garden cress) as target species combined with (eco)physiological, biomechanical and biochemical analyses revealed that MyA interferes with key processes which have endosperm weakening and embryo growth as target. Our recent work employed transcriptome (RNAseq) and hormone analyses which demonstrated that MyA triggers a phased detoxification programme and inhibits cress seed germination via multiple mechanisms and interference with several molecular pathways. Evaluation of MyA's proposed bioactivities reveals that it, in contrast to several other chalcones, does not act as bleaching herbicide and is not a p-hydroxyphenylpyruvate dioxygenase (HPPD) inhibitor. MyA acts by interference with cell growth processes including by reducing the production of apoplastic reactive oxygen species. MyA acts by interference with the seed's hormone metabolism, signaling and/or transport targeting gibberellin, jasmonate, ethylene and auxin pathways. The interference with auxin homeostasis was associated with altered expression patterns of auxin transporter genes required for proper seed germination and seedling growth. Our comparative analysis of the MyA gene expression responses with other chalcones and several chemically distinct plant-derived phytotoxins revealed that most allelochemicals seem to interfere with auxin transport. They however differ in which auxin transporter genes they have as targets. The importance and ecophysiology of conserved and allelochemical-specific mechanisms will be discussed.
+
+\newpage
+
+### Ecophysiological and molecular mechanisms of blackgrass weed seed bank persistence
+
+```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
+knitr::include_graphics("pics/oral.png")
+```
+
+Venceslai, N. (1), Pérez, M. (1), Holloway, T. (2), Liu, C. (2), Leubner-Metzger, G. (1,3) and Nakabayashi, K. (1)
+
+(1) Royal Holloway University of London, United Kingdom; (2) Syngenta Jealott´s Hill International Research Centre; (3) Palacky University Olomouc, Czech Republic
+
+Nahema.Venceslai.2020@live.rhul.ac.uk
+
+The sole use of herbicides for the control of the weed blackgrass (Alopecurus myosuroides) is becoming increasingly unsustainable due to the widespread diffusion of herbicide resistance in this species, making blackgrass the most herbicide-resistant weed in the UK. Estimation of the seedling emergence pattern of blackgrass in the field is becoming key in the development of alternative strategies to control the weeds persistence in the soil seedbank. Blackgrass is characterized by two emergence peaks, allowing it to compete against both winter and spring crops in the field. Blackgrass seeds can also enter secondary dormancy, a state which provides the weed with a survival advantage when environmental conditions for plant growth are unfavorable. Seed dormancy is also known to be an important factor to the persistence of seeds. While some ecological studies have been conducted to look at secondary dormancy and persistence of blackgrass seeds in the field, the molecular mechanisms underlying these processes have not yet been characterized. We investigated the mechanisms of blackgrass physiological dormancy by modelling seed responses to different temperatures as major environmental factor and by comparing distinct seed dormancy states. Transcriptome analysis (RNAseq) identified key hormone biosynthesis and signaling pathways genes involved in blackgrass dormancy in relation to temperature as environmental cue and the dormant state as intrinsic seed property. These findings will help provide a better understanding of the change in the physiological state of blackgrass seeds in the soil seedbank in response to the environment. They will be further used to improve existing mathematical models of blackgrass emergence in the field, which can help identify more effective blackgrass control strategies.
+
+\newpage
+
+### Pericarp-elicited transcriptomic and hormonomic changes underpin early life history traits in the dimorphic diaspores of Aethionema arabicum
+
+```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
+knitr::include_graphics("pics/oral.png")
+```
+
+Chandler, J.O. (1); Wilhelmsson, P.K.I. (2); Pérez, M. (1); Graeber, K. (1); Steinbrecher, T. (1); Rensing, S.A. (2); Novák, O. (3) and Leubner-Metzger, G. (1, 3)
+
+(1) Royal Holloway University of London, United Kingdom; (2) University of Marburg, Germany; (3) Palacký University Olomouc, Czech Republic
+
+Jake.Chandler@rhul.ac.uk
+
+The dimorphic annual Aethionema arabicum is a Brassicaceae producing two distinct fruit and seed morphotypes. Smaller indehiscent fruits contain a single non-mucilaginous seed (‘M-’) dispersed, via abscission, enclosed in pericarps as fruit diaspores. Larger dehiscent fruits contain around four mucilaginous (‘M+’) seeds and dehisce on maturity dispersing bare M+ seeds as seed diaspores. The ratio of the two fruit morphotypes is affected by the environmental conditions, including ambient temperature, experienced by the mother plant, with M+ seed favored at high temperature. This plastic diaspore bet-hedging strategy may facilitate long-term fitness an Anatolian habitat where temperature and aridity extremes occur with growing in screes at different elevations. The two diaspores contrast in germination ecology. Pericarp-imposed dormancy restricts germination of M- seed-harboring fruits to lower temperatures compared to the M+ seeds. Our large-scale RNAseq experiment compared transcriptomes of M+ and M- seed from plants grown at high and low temperatures imbibed at four temperatures at multiple time points. Further, we assessed the effect of pericarp removal on the physiology, transcriptome and hormonome of M- seeds. We found the pericarp, which contains germination inhibitors, altered the transcriptome of the M- seed increasing expression of dormancy-associated gene modules and repressing germination-associated gene modules. Fruits from parent plants grown in different environments differed in germination-inhibiting potency of the pericarp contents and the sensitivity of the M- seed to the germination inhibitors. We discuss the role of the pericarp in integrating temperature in the plant's diaspore dimorphism syndrome to define contrasting early life-histories of the two diaspore morphotypes in adaptation to its natural habitat. 
+
+\newpage
+
+### Seed priming with gas plasma activated water in Ethiopia’s “orphan” crop tef (Eragrostis tef)
+
+```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
+knitr::include_graphics("pics/oral.png")
+```
+
+Fatelnig, L. (1), Chanyalew, S. (2), Tadesse, M. (2), Kebede W. (2), Hussein, N. (2), Iza, F. (3,4), Tadele, Z. (2,5), Leubner-Metzger, G. (1,6) and Steinbrecher, T. (1)
+
+(1) Royal Holloway University of London, UK; (2) Ethiopian Institute of Agricultural Research, Debre Zeit Agricultural Research Center, Ethiopia; (3) Wolfson School of Mechanical, Electrical and Manufacturing Engineering, Loughborough University, UK; (4) Division of Advanced Nuclear Engineering, Pohang University of Science and Technology (POSTECH) South Korea; (5) Institute of Plant Sciences, University of Bern, Switzerland; (6) Laboratory of Growth Regulators, Palacký University and Institute of Experimental Botany, Czech Republic
+
+lena.fatelnig@rhul.ac.uk
+
+Tef (Eragrostis tef) is a cereal grass and a major staple crop of Ethiopia and Eritrea. Despite its significant importance in terms of production, consumption, and cash crop value, tef has been understudied and its productivity is low. In this study, tef grains have undergone different priming treatments to enhance seed vigor and seedling performance. A conventional hydro-priming and a novel additive priming technology with gas plasma activated water have been used and tef grains were then subjected to germination performance assays and accelerated ageing. Tef priming increases the germination speed and vigor of the grains which leads to more uniform germination and better germination timing in the environment amongst other benefits. Priming with gas plasma activated water retained the seed storage potential after ageing, therefore presenting an innovative environmental-friendly seed technology with the prospect to address variable weather conditions and ultimately food insecurity. Seed technology opens new possibilities to enable precision agriculture that leads to increased productivity of tef crop farming to achieve a secure and resilient tef food system and economic growth in Ethiopia by sustainable intensification agriculture beyond breeding. Beyond "orphan" crops innovative seed technologies such as priming with gas plasma activated water may also be used for improving seed quality in habitat restoration projects.
+
+\newpage
+
+### Impact of red:far red ratios on germination in Australia’s tropical mountain cloud forests
+
+```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
+knitr::include_graphics("pics/oral.png")
+```
+
+Hoyle, G. (1), Stevens, A. (1), Guja, L. (1,2), Sommerville, K. (3), Worboys, S. (4), Crayn, D. (4)
+
+(1) National Seed Bank, Australian National Botanic Gardens, Australia 2) Centre for Australian National Biodiversity Research, (a joint venture between Parks Australia and CSIRO), Australia 3) The Australian PlantBank, The Royal Botanic Gardens and Domain Trust, Australia 4) Australian Tropical Herbarium, James Cook University Nguma-Bada Campus, Australia
+
+gemma.hoyle@awe.gov.au
+
+In Australia, tropical mountain cloud forests (TMCF) are restricted to the Wet Tropics World Heritage Area of north-eastern Queensland and contain over 70 endemic plant species. Suitable TMCF habitat is predicted to decline or disappear for many of these species by 2085. However, virtually nothing is known about factors that determine the regeneration and distribution of these species. Regeneration via seed is determined by temperature, moisture and light conditions. Light quality, specifically the ratio of red to far-red light (R:FR; 660:730 nm), has been shown to influence seed germination of light-sensitive seeds, including many small-seeded tropical species. Canopy cover, leaf litter and cloud immersion all affect the R:FR that plants are exposed to, potentially permitting fine-scale discrimination of light conditions for seed germination. We investigated the impacts of R:FR using natural sunlight and green polyester filters. Seeds of six previously unstudied TMCF species were sown in a temperature-controlled glasshouse beneath a gradient of R:FR ranging from 0.1 (such as beneath leaf litter and a thick plant canopy) to 1.14 (unfiltered sunlight). Germination of Dracophyllum sayeri increased exponentially with increasing R:FR, including low germination in the dark. In contrast, Abrophyllum ornans, Melastoma malabathricum subsp. malabathricum and Lenbrassia australiana required light for germination and germinated well in all R:FR. Similarly, light quality had no effect on germination of Dianella caerulea. Interestingly, germination of Gahnia sieberiana was greater in the dark than in unfiltered light but was inhibited by a low R:FR reminiscent of beneath a plant canopy or leaf litter. Findings provide insights into plant recruitment in situ, and the acclimation potential of these species. Such information can also inform the long-term management of TMCF flora.
+
+\newpage
+
+### Effects of fire season on the reproductive effort and seed resourcing of a post-fire flowerer
+
+```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
+knitr::include_graphics("pics/oral.png")
+```
+
+Paroissien, R. (1) and Ooi, M.K.J. (1, 2)
+
+(1) Centre for Ecosystem Science, School of Biological, Earth and Environmental Sciences, 
+
+University of New South Wales, UNSW, Sydney, NSW, 2052, Australia; (2) NSW Bushfire Risk Management Research Hub, Sydney, New South Wales, Australia
+
+r.paroissien@unsw.edu.au
+
+Fire is an integral part of many ecosystems and recent record-breaking fires in natural systems around the world are indicative of changes occurring to the fire regime. While fire severity and frequency are usually the focus of studies, fire seasonality also plays a major role particularly in the reproductive success of plant species. Post-fire flowerers are particularly susceptible to changes in fire seasonality, their seeds usually lack dormancy and are reliant on post fire conditions. We examined the effect of fire season on the reproductive effort and seed resourcing of the post-fire flowerer Doryanthes excelsa from eastern Australia. We conducted field experiments at sites burnt in different seasons and of different soil moistures. Reproductive success was measured through seed vigor, including seed germination and the percentage of lipids, carbohydrates, and crude proteins of seeds, as well as the percentage flowering and the number of seed pods. What we found was that sites burnt in summer increased germination, lipid levels in seeds, the percentage flowering and the number of seed pods, when compared to sites burnt in spring or autumn. Flowering was also delayed when burnt outside of summer. Post-fire flowerers are a major functional group within communities that frequently experience fire. Ongoing climatic changes driving shifts in the fire regime pose an imperative to consider fire season in management to conserve this important functional group.
+
+\newpage
+
+### Environmental thermal regulation of dormancy in Echinochloa crus-galli (L.) P. Beauv. seeds
+
+```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
+knitr::include_graphics("pics/oral.png")
+```
+
+Malavert, C. (1,3), Ferraro, D. (1,2) and Batlla, D. (1,2)
+
+(1) IFEVA, Facultad de Agronomía, Universidad de Buenos Aires, CONICET. Av. San Martín 4453, C1417DSE. Buenos Aires, Argentina; (2) Cátedra de Cerealicultura, Facultad de Agronomía, Universidad de Buenos Aires. CONICET. Av. San Martín 4453, C1417DSE. Buenos Aires, Argentina; (3) Cátedra de Cultivos Industriales, Facultad de Agronomía, Universidad de Buenos Aires, CONICET. Av. San Martín 4453, C1417DSE. Buenos Aires, Argentina.
+
+malavert@agro.uba.ar
+
+Predicting weed emergence is of vital importance for weed management, since emergence is a key process in weed population dynamics and the seedling stage is the most effective for the application of control practices. In weeds species whose seeds present dormancy, as in Echinochloa crus-galli, predicting emergence depends on understanding how the environment regulates dormancy level. In the present work, we studied the environmental regulation of dormancy in E. crus-galli seeds. For this, E. crus-galli seeds were storage under different conditions: i) moist at 5, 10 and 15ºC (stratification) and ii) dry at 15 and 25ºC (dry after-ripening) for 80 days. During storage, the seeds were tested for germination at regular intervals under a wide temperature range (10-30ºC). The results showed that the changes in dormancy level were associated with a widening of the thermal range permissive for seed germination as consequence of a decrease in its lower limit temperature (Tl). This decrease in Tl was higher when the seeds were stratified at 10ºC than at 5 and 15ºC. Seeds exposed to dry after-repining showed a significant lower rate of dormancy release. Obtained results were used to establish functional relationships able to predict field emergence of E. crus-galli as a function of soil temperature. 
+
+\newpage
+
+### Germination thresholds and stress tolerance of Australian native species under a changing climate
+
+```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
+knitr::include_graphics("pics/poster.png")
+```
+
+Beveridge, F.C. (1), Williams, A. (2) and Adkins, S.W. (3)
+
+(1), (2) and (3) The University of Queensland, Australia
+
+fernanda.carobeveridge@uq.net.au
+
+Climate variability is projected to increase due to climate change, with changing temperatures, moisture availability and fire frequency. These variations will have a significant impact on plant recruitment from seed. Although global change is expected to have a greater impact on early life history stages, studies examining the effects varying environmental impacts will have on germination responses are still missing for many ecosystems. In Australia, climate change is interacting with existing environmental challenges (such as highly variable rainfall, high frequency of high temperature stress events, and numerous soil constraints, including low fertility, salinity, and sodicity) and this will have significant impacts on Australia’s distinct biota. This study investigated seed germination traits of sub-tropical Australian native species when subjected to various environmental treatments with the aim of evaluating germination thresholds of species used in seed-based restoration. This information can be used to make reliable predictions on how seeds of native species will respond to changing environmental cues. Three Poaceae and five Fabaceae species were selected based on differences in seed attributes, plant form and restoration benefits. Control (untreated) and pre-treated seeds (gibberellic acid [GA3] for Poaceae and hot water scarification for Fabaceae) were germinated under different temperatures (four alternating and 10 different constant temperatures) and light conditions (light/dark). They were also subject to different stressors (osmotic, salt, pH and burial depth) to simulate possible climate change scenarios. The results demonstrate how global change can influence seed germination patterns, which will have significant impact on the functioning of natural ecosystems as well as for seed-based restoration. This information is crucial for a better-informed prediction on how plant communities will respond to climate change and for guiding restoration efforts. 
+
+\newpage
+
+### SEED ECOLOGY OF Atropa baetica Willk. AS A POSSIBLE EXPLANATION FOR ITS RARITY
+
+```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
+knitr::include_graphics("pics/poster.png")
+```
+
+Copete, M.A. (1); Copete, E. (1); Martínez-Duro, E. (2); Ferrandis, P. (1) and Herranz, J.M. (1)
+
+(1) University of Castilla-La Mancha, Spain; (2) Junta de Comunidades de Castilla-La Mancha, Spain
+
+miguel.copete@uclm.es
+
+There is currently a consensus regarding the existence of multiple causes to explain the origin of endemic plant taxa. Comparative studies contrasting the biology of rare taxa with common closely related phylogenetic congeners, which could be considered as “control species”, are considered particularly valuable.With this objective, the germinative ecologies of Atropa baetica (endangered Ibero-North African endemism) and Atropa belladonna (wide Eurasian distribution) are compared in this study. Specifically, the following are analyzed: a) phenology of seedling emergence, b) germination of dry stored seeds tested in a wide range of temperatures (5, 15/4, 20/7, 25/10, 28/14 and 32/18ºC) in light and darkness, c) effect of different periods (between 1 and 4 months) of cold stratification (5ºC) on germination.During the first autumn no seedlings emerged, and after the first spring, 57% emergence was recorded in A. baetica (March-April) and 32% in A. belladonna (May). After 3 years, the accumulated emergence reached 78% and 65%, respectively. In dry stored seeds, germination was null at 5ºC and 15/4ºC for both species. In the remaining thermoperiods, A. baetica seeds increased germination with age up to close to 100%. However, A. belladonna seeds did not germinate at 20/7ºC and 25/10ºC for any age, but they did at 28/14ºC and 32/18ºC up to 50-70% for the highest ages. In both taxa, the photoperiod promoted germination. Cold stratification increased germination.Seeds of both species have non-deep physiological dormancy. This germination strategy explains the absence of seedling emergence during the first autumn. The increase in germination with seed age and after a period of cold stratification has been verified in both species but with a delay between emergence of their seedlings. This way, seedlings of A. belladonna emerge later, increasing their chances of survival given the sensitivity of seedlings of these species to frost.
+
+\newpage
+
+### Comparative studies on seed germination in related Aquilegia species (Ranunculaceae)
+
+```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
+knitr::include_graphics("pics/poster.png")
+```
+
+Pinzani, L., Bacci, S., Olivieri F., Bedini G., Carta, A.
+
+University of Pisa, Italy
+
+lorenzo.pinzani@phd.unipi.it
+
+Columbines (Aquilegia L.) represent a model system in evolutionary biology, however, the phylogenetic, taxonomic and functional relationships within this genus are still misunderstood, and proposed interpretive models are often conflicting. Even more challenging is the study of seed ecology in this genus. So far, only a few studies on seed dormancy and germination behavior in Aquilegia have been conducted, probably due to the complex thermal requirements necessary to overcome dormancy. Here, we investigate seed germination in multiple populations from 5 high mountain and 2 nemoral European species of Aquilegia. Seeds were exposed to different temperatures shortly after harvesting, while others were pre-treated either with warm stratification, cold stratification, or with a sequence of warm + cold stratification and complemented by a “move-along” experiment and periodic seed sections to monitor embryo growth over time. The seeds of all species are dormant at dispersal, with different dormancy degree depending on species relatedness and habitat ecology. However, requirements for dormancy removal remains to be better clarified. Seed sections highlighted a slow but progressive embryo growth in all populations during the “move-along” experiment. To fill the knowledge gap on germination mechanisms in Aquilegia we aim to perform a meta-analysis on seed germination by aggregating our own experimental data with the literature data available on germination ecology in this genus. This study will help to better understand the adaptive mechanisms underpinning seed germination in Aquilegia and better clarifying the contribution of these processes in species delimitation.
+
+\newpage
+
+### Timing of fire during summer determines seed germination in Cistaceae
+
+```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
+knitr::include_graphics("pics/poster.png")
+```
+
+Luna, B., Piñas, P., Zavala, G.  and Pérez. B.
+
+Departamento de Ciencias Ambientales, Universidad de Castilla-La Mancha, Spain
+
+Belen.Luna@uclm.es
+
+Mediterranean-type climate ecosystems are fire-prone environments where species have evolved in presence of seasonal summer conditions and frequent fires. When a fire occurs, usually in summer, seeds in the soil suffer not only the heat shock of the high temperatures reached during the fire, but also the conditions throughout the summer days. Hardseededness is a trait developed by Cistaceae together other plant families, which prevents germination until some factor, such as fire and summer temperatures, breaks the imposed physical seed dormancy. We evaluated the effects of fire and summer temperatures on seed germination of 12 species of Cistaceae. Furthermore, we wondered if the timing in which seeds are exposed to a heat shock along the period of high summer temperatures affects to seed germination. A heat shock (100°C for 10 min) was produced before, after and before plus after, seeds were exposed to summer temperatures (50/20°C for one month). Heat shock increased germination of all species whatever the timing of heat shock when seeds were not exposed to summer temperatures. However, when seeds were exposed to summer temperatures, the timing in which the heat shock was produced, at the beginning or at the end of the summer period, was determinant for seed germination.  Pre-summer heat shock had a significant negative effect on seed germination in comparison to post-summer heat shock, which was related with a higher proportion of hard coated seeds and might be explained by a cycling of sensitivity to physical dormancy break. Timing of fire during summer plays an important role controlling seed germination of Cistaceae so, both factors, fire and summer work together breaking physical seed dormancy.
+
+\newpage
+
+### Cone/seed morphometry and germination ecophysiology of Juniperus drupacea at the westernmost area of its global distribution (Mt. Parnon, Greece)
+
+```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
+knitr::include_graphics("pics/poster.png")
+```
+
+Oikonomidis, S. (1,2) and Daskalakou, E. (2), Thanos, C.A. (1)
+
+(1) Department of Botany, Faculty of Biology, National and Kapodistrian University of Athens, 15784 Athens, Greece.  (2)  Institute of Mediterranean Forest Ecosystems, 11528 Athens, Greece
+
+edaskalakou@fria.gr
+
+Juniperus drupacea Labill. is a relict, dioecious tree/shrub found in Turkey, Syria, Lebanon and Israel, while in Europe it is native only in Greece (in Mt. Parnon and in a small part of Mt. Taygetos). In Europe, according to the IUCN Red List criteria, J. drupacea has been characterized as endangered (EN), the most serious threats being grazing of saplings, timber overexploitation and climate change. The germination behaviour of the species in Greece and the morphometric characteristics of its cones and seeds are being studied for the first time. Seeds have been subjected to different periods of pre-chilling (0, 4, 8, 12, 16, 20, 24, 32 weeks) and then germinated at 15 oC and in darkness, while for the 16 weeks pre-chilling period, germination was also studied at 20 oC and both in the light (12/12h) and dark. The germination of the species seems unaffected by the light conditions while a prolonged pre-chilling period of at least 16 weeks is necessary for achieving the maximum, so far, germination percentage of 40% at 15 oC. Regarding cone and seed morphology (cone mass, sound seeds per cone and seed mass), 20 random, mature cones have been gathered from 11 sites of both northern and southern populations of Mt. Parnon, while seeds per cone were additionally counted in an extra batch of 829 cones. The average mass of a cone is 2810 mg and each cone contains 1-5 sound seeds (m = 2.3 seeds per cone) with a mean seed mass of 32.7 mg.
+
+\newpage
+
+### Physiological and molecular mechanisms of Lepidium sativum seed longevity and vigor
+
+```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
+knitr::include_graphics("pics/poster.png")
+```
+
+Pérez, M. (1), Holloway, T, (2), Chandler, J. (1), Haas, F. (3), Rensing, S. (3) and Leubner-Metzger, G. (1)
+
+(1) Royal Holloway University of London, United Kingdom; (2) Syngenta Jealott´s Hill International Research Centre, United Kingdom; (3) University of Marburg, Germany
+
+Marta.Perez@rhul.ac.uk
+
+Seeds have a central role in almost all the food supply chains important to human and animal survival. Seed longevity and vigor are key quality-defining traits that determine plant species adaptability to changing environmental conditions and seed performance after storage. Seed vigor is a complex trait with genetic and environmental components determining the rate and uniformity of seed germination and seedling growth under harsh weather conditions and abiotic stresses. The mechanisms that regulate seed germination have been widely studied; however, little is known about the mechanisms related to seed longevity and vigor. Moreover, the relationship between seed pigmentation, dormancy and vigor, and their roles in environmental adaptation are poorly understood. Therefore, the objective of the present study is to investigate the physiological and molecular mechanisms underpinning the regulation of seed longevity and vigor in Lepidium sativum by using accelerated ageing techniques in combination with naturally aged lines. The results show changes in germination kinetics associated with the ageing treatments. Initial comparative transcriptomics analysis also indicates differences among the different treatments and lines. Moreover, differential expression patterns of key genes involved in genome integrity and stability processes were observed between the lines, indicating that this is a promising system for further analyses.
+
+\newpage
+
+### Ecophysiology seed traits of Devil's claw (Martynia annua; Martyniaceae)
+
+```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
+knitr::include_graphics("pics/poster.png")
+```
+
+Muthuthanthirige, D. L. (1), Jayasuriya, K. M. G. G (1, 2)., and Phartyal, S. S. (3)
+
+(1) Department of Botany, University of Peradeniya, Peradeniya, Sri Lanka, (2) Postgraduate Institute of Science, University of Peradeniya, Peradeniya, Sri Lanka, (3) School of Ecology and Environment Studies, Nalanda University, Rajgir, India
+
+deshikalm@gmail.com
+
+Martynia annua is an invasive weed that carries many medicinal properties and is characterized by the presence of unique fruit with upwardly covered hooks that protrude from its woody endocarp. Despite being an invasive weed, its seed ecophysiology is poorly known. This study aimed to understand how this species' seed dormancy, germination, and storage physiology facilitate its invasion and survival. The endocarp of M. annua comprises four locules that bear mainly four seeds per fruit. Although none of the soil buried or laboratory incubated seeds germinated even after six months, woody endocarps of M. annua did not restrict water imbibition (seed mass without- and with-woody endocarp increased 61 and 104% within ten days of imbibition, respectively). Fully developed investing embryos present in seeds suggest that there is no morphological component to its dormancy. Seeds with- and without-woody endocarp germinated (>90%) only after being treated with 500 ppm GA3. The seed coat ratio of M. annua was <0.5, indicating a low probability of becoming a desiccation-sensitive seed. Moreover, dry-stored seeds retained >90% viability even after one year of storage. Our findings revealed that the removal of the endocarp failed to facilitate seed germination, indicating that both the endocarp constraint and the low growth potential of the embryo were responsible for the delay in seed germination. Thus, it confirmed that M. annua produces physiologically dormant and desiccation-tolerant seeds, capable of dispersing longer-distance at spatial and temporal scales. These specific seed traits could help explain its wider distribution and invasion success globally. 
+
+\newpage
+
+### What method is the best? Comparison between different smoke treatments on the germination of Cerrado species
+
+```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
+knitr::include_graphics("pics/poster.png")
+```
+
+Gasparini, R. (1), Zirondi, H. (1), Motta, G.S.T. (2), Kolb, R.M. (2), Fidelis, A. (1) 
+
+¹Lab of Vegetation Ecology, Universidade Estadual Paulista (UNESP), Rio Claro, Brazil and ²Department of Biological Sciences, School of Sciences and Languages, Universidade Estadual Paulista (UNESP), Assis, Brazil
+
+rg.martins@unesp.br
+
+Smoke produced during fire events may affect seed germination of species of fire-prone ecosystems. However, there are many ways of conducting smoke experiments, and this can affect species response to smoke. Therefore, we aimed to investigate the potential of different smoke methods to stimulate seed germination of Cerrado native species. We evaluated the effect of aerosol smoke (10 min of exposition, combustion of the biomass sampled in the study sites), non-commercial smoke water (seeds soaked for 24 hs in smoke water solution produced with biomass sampled in the study sites), and commercial smoke water (seeds soaked for 24 hs in 5% and 2.5% concentration of Regen 2000 ® smoke water) on the germination and on the mean germination time of 12 species from the Cerrado. After treatments, seeds were placed to germinate in distilled water. The germination experiments were conducted for 30 days, and viability tests were carried out with ungerminated seeds. Our results showed that germination responses varied among methods: higher germination percentages were achieved by using commercial smoke water (89.2%; 91.2%), independently of the concentration, followed by aerosol and non-commercial smoke water (78.83%; 66.67%, respectively). Moreover, species germinated faster by using commercial smoke water, independently of the concentration, followed by non-commercial smoke and aerosol. Commercial smoke water, besides being the method that most increased germination percentage and most decreased mean germination time, is the most practical method for large-scale use in situ and ex-situ. Finally, we conclude that the responses of Cerrado species can be different according to the smoke methods.
+
+\newpage
+
+### Seed color reveals the bet-hedging strategy in an endemic species of Central Apennines (Italy): Astragalus aquilanus
+
+```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
+knitr::include_graphics("pics/poster.png")
+```
+
+Di Cecco V. (1), Di Musciano M. (2), Frattaroli A.R. (2) and Di Martino L. (1)
+
+(1) Maiella National Park, Italy; (2) University of L’Aquila, Italy
+
+valter.dicecco@parcomajella.it
+
+Astragalus aquilanus (Fabaceae) is an endemic species of Apennines (Italy). The seeds of this species have wide intraspecific plasticity. The seed color strongly differs among and within individuals and/or populations, and it varies from straw yellow to black. From explorative germination tests, it was highlighted as a "light" seed has geminated faster compared to a dark grey. Thus, we have disentangled how color can provide information about the bet-hedging strategies. To do so, we have split the seeds into color groups, by morpho-colorimetric analysis, from lighter to darker colors. Imbibition test was carried out for each color group, collecting both weight and area of seeds, at several time breaks (from 2h to 96h). The results highlight as the lightest color group shows fully imbibed seed and also the imbibition was faster compared to the others group. These results indicate that color distinct the severity of physical dormancy, suggesting as these traits can provide key information about bet-edging strategies. For these reasons, we carried out a preliminary analysis to test the effect of climate factor on the size and color of seeds in four populations of A. aquilanus. The results suggest as populations with higher temperatures and scarce rainfall show a greater number of dark and small seeds (presumably dormant).  These differences among populations can be due to the maternal effect, which produces different proportional of light and dark seeds based on climatic factors.  Dry sites are more frequently subjected to rainy events that cause germination but are not sufficient to allow the plants to ripen, probably favoring a high proportion of "dark" seeds. This method should be tested in a wide number of populations and species, across a long-time span. This data could provide crucial information to better assess the effect of climate change on plants and to predict future extinction risks.
+
+\newpage
+
+### Acacia saligna and Vachellia karroo: germination ecophysiology of two invasive species in the Mediterranean Basin
+
+```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
+knitr::include_graphics("pics/poster.png")
+```
+
+Podda, L. (1), Porceddu, M. (1), Dessì L. (1), Naraghi, M. (2), Brundu, G. (3), Lozano V. (3), Domina, G. (4), Petit, Y. (5). Bacchetta, G. (1)
+
+(1) University of Cagliari, Italy; (2) University of Teheran, Iran; (3) University of Sassari, Italy; (4) University of Palermo, Italy; (5) Conservatoire Botanique National de Corse (CBNC), France.
+
+lina.podda@gmail.com
+
+In the framework of the project Interreg Italia-Francia Marittimo “ALIEM”, two species of Acacia s.l. were selected to study some of their invasive traits in the Mediterranean Basin. We focused on seed germination ecophysiology of the phanerophytes Acacia saligna (Labill.) H.L. Wendl., native to Western Australia and Vachellia karroo (Hayne) Banfi & Galasso native to Southern Africa, both recorded as invasive in the Mediterranean Basin. Germination requirements of three populations of A. saligna (two from Sardinia and one from Corsica) and three of V. karroo (from Sicily, Sardinia, and Corsica) were evaluated on scarified seeds at constant (5, 10, 15, 20 and 25 °C) and alternating temperatures (25/10 °C), both in light (12/12 h) and in darkness (0/24 h), and under NaCl stress (0, 125, 250 and 500 mM). The recovery capacity of non-germinating seeds after salt stress were evaluated as well. Non-scarified seeds were tested at 15, 20 and 25 °C in light condition. A. saligna scarified seeds germinated at all tested temperatures (ca. 100%); V. karroo scarified seeds showed capability to germinate at all the temperatures (ca. 95%), except at 5 °C in which germination from 40 to 0% were recorded both in light and in total darkness. Non-scarified seeds in both species showed lower germination percentages than scarified seeds, with no significant differences among populations. The limit of tolerance to NaCl varied among the two species and populations. Seeds of A. saligna germinated up to 250 mM, while V. karroo seeds germinated also at the highest NaCl concentration (500 mM). Both species showed a low capability of germination recovery after salt exposure, when stressed with 500 mM of NaCl. Our results represent a novel contribution in developing management plans for these alien species and for the control of biological invasions in coastal habitats.
