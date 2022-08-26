@@ -4,7 +4,7 @@ subtitle: "[unioviedo.es/seedecol7](https://www.unioviedo.es/seedecol7/)"
 site: bookdown::bookdown_site
 documentclass: book
 output: 
-  bookdown::gitbook:
+  bookdown::pdf_book:
     latex_engine: xelatex
     number_sections: false
 book_filename: "seedecol7"
