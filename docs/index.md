@@ -2,7 +2,7 @@
 title: "Seed Ecology VII - Book of Abstracts"
 subtitle: "https://www.unioviedo.es/seedecol7/"
 author: "Cite as: Seed Ecology VII (2022) Book of Abstracts of the 7th Seed Ecology Conference of the International Society for Seed Science. Gijón/Xixón, Asturias, Spain. September 6 to September 9, 2022."
-date: "`r Sys.Date()`"
+date: "2022-08-26"
 site: bookdown::bookdown_site
 documentclass: book
 output: 
@@ -32,10 +32,7 @@ header-includes:
 
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-knitr::opts_chunk$set(out.width = "100%")
-```
+
 
 # Preface {-}
 
