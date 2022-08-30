@@ -1,34 +1,13 @@
 # Organizing committee
 
-Borja Jiménez-Alfaro (chair)
-*University of Oviedo (Spain)*
-
-Eduardo Fernández-Pascual (co-chair)
-*University of Oviedo (Spain)*
-
-Daniel García
-*University of Oviedo (Spain)*
-
-Clara Espinosa del Alba
-*University of Oviedo (Spain)* 
-
-Victor González-García
-*University of Oviedo (Spain)*
-
-Adrián Lázaro-Lobo
-*University of Alcalá (Spain)*
-
-Diana María Cruz Tejada
-*University of Pisa (Italy)*
-
-Luis Carlón Ruiz
-*Biosfera S.L. (Spain)*
-
-Luis Miguel Álvarez Morales
-*Atlantic Botanic Garden (Spain)*
-
-Reyes Álvarez Vergel
-*Atlantic Botanic Garden (Spain)* 
-
-Jesús Barrientos González
-*Atlantic Botanic Garden (Spain)*
+Borja Jiménez-Alfaro (chair) *University of Oviedo (Spain)*  
+Eduardo Fernández-Pascual (co-chair) *University of Oviedo (Spain)*  
+Daniel García *University of Oviedo (Spain)*  
+Clara Espinosa del Alba *University of Oviedo (Spain)*  
+Victor González-García *University of Oviedo (Spain)*  
+Adrián Lázaro-Lobo *University of Alcalá (Spain)*  
+Diana María Cruz Tejada *University of Pisa (Italy)*  
+Luis Carlón Ruiz *Biosfera S.L. (Spain)*  
+Luis Miguel Álvarez Morales *Atlantic Botanic Garden (Spain)*  
+Reyes Álvarez Vergel *Atlantic Botanic Garden (Spain)*  
+Jesús Barrientos González *Atlantic Botanic Garden (Spain)*  

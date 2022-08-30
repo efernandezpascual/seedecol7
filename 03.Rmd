@@ -26,7 +26,7 @@ knitr::include_graphics("pics/oral.png")
 
 Acosta-Rojas, D.C.^1,2^, Barzcyk, M.^1,2^, Espinosa, C.I.^3^, Neuschulz, E.^1^, Schleuning, M.^1^
 
-^1^*Senckenberg Biodiversity and Climate Research Centre (SBiK-F), Germany*; ^2^*Goethe Universität, Germany*; ^3^*Universidad Técnica Particular de Loja, Ecuador*
+^1^*Senckenberg Biodiversity and Climate Research Center, Germany*; ^2^*Goethe Universität, Germany*; ^3^*Technical University of Loja, Ecuador*
 
 dianacarolinaacostarojas@gmail.com
 
@@ -56,9 +56,9 @@ Rewilding of Cantabrian montane forests involves the recolonization of open anth
 knitr::include_graphics("pics/oral.png")
 ```
 
-Fuzessy, L.^1^, Culot, L.^1^
+Fuzessy, L.^1,2^, Culot, L.^2^
 
-^1^*São Paulo State University, Brazil*
+^1^*Center for Ecological Research and Forestry Applications, Spain*; ^2^*São Paulo State University, Brazil*
 
 lfuzessy@gmail.com
 
@@ -74,7 +74,7 @@ knitr::include_graphics("pics/oral.png")
 
 Isla-Escudero, J.^1^, Jácome-Flores, M.^2^, Arroyo-Correa, B.^1^, Arroyo, J.M^1^, Jordano, P.^1,3^
 
-^1^*Estación Biológica de Doñana, CSIC, Spain*; ^2^*Centro de Cambio Global y Sustentabilidad, CCGS, México*; ^3^*Universidad de Sevilla, Spain*
+^1^*Doñana Biological Station, CSIC, Spain*; ^2^*Global Change and Sustainability Center, México*; ^3^*University of Seville, Spain*
 
 jorge.isla@ebd.csic.es
 
@@ -90,11 +90,11 @@ knitr::include_graphics("pics/oral.png")
 
 Muñoz-Gallego, R.^1^, Traveset, A.^1^, Wiegand, W.^2^, Moreno, M.^3^, Fedriani, J.M.^3,4^
 
-^1^*Mediterranean Institute of Advanced Studies (IMEDEA, CSIC-UIB), Spain*; ^2^*Helmholtz Centre for Environmental Research GmbH – UFZ, Germany*; ^3^*Desertification Research Centre (CIDE, CSIC), Spain*; ^4^*Doñana Biological Station (EBD, CSIC), Spain*
+^1^*Mediterranean Institute of Advanced Studies, CSIC-UIB, Spain*; ^2^*Helmholtz Center for Environmental Research, Germany*; ^3^*Desertification Research Center, CSIC, Spain*; ^4^*Doñana Biological Station, CSIC, Spain*
 
 rmunoz@imedea.uib-csic.es
 
-The spatial distribution of adult plants and their seed dispersal pattern provides significant information about the underlying processes of plant-frugivore interactions. Thus, the frugivores’ assemblage (among other factors) could determine these spatial patterns and influence other plant-animal interactions, such as post-dispersal seed predation. We used spatial data of Chamaerops humilis adult palms and their dispersed seeds (Seed Dispersal Units, SDUs), collected during 2019 and 2020 in two different plots in Mallorca (Balearic Islands). These plots differed in the frugivores’ assemblage since feral goats were absent in one of them (the “defaunated” plot), but they were highly abundant in the other (the “overfaunated” plot). Moreover, we recorded whether SDUs were predated by insects and the intensity of predation. We addressed, using spatial point pattern analysis (SPPA), the following objectives: 1) to compare the spatial distribution of adult palms and SDUs between the “defaunated” and the “overfaunated” plots, 2) to assess the spatial relationship between the distribution of adult trees and the seed rain generated, 3) to describe the spatial patterns of seed predation by insects and, 4) to find out whether insect-predated seeds tended to be aggregated around adult palms. Adult palms and SDUs showed a double-clustered distribution with more isolated points than expected under null model in both the “defaunated” and the “overfaunated” plots. However, the bivariate analyses revealed a strong spatial association between adult palms and SDUs only in the “defaunated” plot. Interestingly, seed predation showed significant spatial patterns, but only in the “defaunated” plot. Seed predation happened more frequently and intensely within aggregated SDUs, and predated SDUs tended to be associated to adult palms. Our research disentangles for the first time the spatial patterns of seed predation by insects, and it calls for future studies on the effect of dense herbivore populations on plant spatial ecology.
+The spatial distribution of adult plants and their seed dispersal pattern provides significant information about the underlying processes of plant-frugivore interactions. Thus, the frugivores’ assemblage (among other factors) could determine these spatial patterns and influence other plant-animal interactions, such as post-dispersal seed predation. We used spatial data of *Chamaerops humilis* adult palms and their dispersed seeds (Seed Dispersal Units, SDUs), collected during 2019 and 2020 in two different plots in Mallorca (Balearic Islands). These plots differed in the frugivores’ assemblage since feral goats were absent in one of them (the “defaunated” plot), but they were highly abundant in the other (the “overfaunated” plot). Moreover, we recorded whether SDUs were predated by insects and the intensity of predation. We addressed, using spatial point pattern analysis (SPPA), the following objectives: 1) to compare the spatial distribution of adult palms and SDUs between the “defaunated” and the “overfaunated” plots, 2) to assess the spatial relationship between the distribution of adult trees and the seed rain generated, 3) to describe the spatial patterns of seed predation by insects and, 4) to find out whether insect-predated seeds tended to be aggregated around adult palms. Adult palms and SDUs showed a double-clustered distribution with more isolated points than expected under null model in both the “defaunated” and the “overfaunated” plots. However, the bivariate analyses revealed a strong spatial association between adult palms and SDUs only in the “defaunated” plot. Interestingly, seed predation showed significant spatial patterns, but only in the “defaunated” plot. Seed predation happened more frequently and intensely within aggregated SDUs, and predated SDUs tended to be associated to adult palms. Our research disentangles for the first time the spatial patterns of seed predation by insects, and it calls for future studies on the effect of dense herbivore populations on plant spatial ecology.
 
 \newpage
 
@@ -114,13 +114,13 @@ Human-induced landscape changes have transformed forest ecosystems into fragment
 
 \newpage
 
-## Understanding long-distance seed dispersal by sea currents: first results of experiments on Juniperus, Daucus, Ferula and Pancratium spp. from the Mediterranean Basin
+## Understanding long-distance seed dispersal by sea currents: first results of experiments on *Juniperus*, *Daucus*, *Ferula* and *Pancratium* spp. from the Mediterranean Basin
 
 ```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
 knitr::include_graphics("pics/oral.png")
 ```
 
-Cuena-Lombraña, A.^1^,  Bacchetta, G.^1^, Fois M.^1^ 
+Cuena-Lombraña, A.^1^, Bacchetta, G.^1^, Fois M.^1^ 
 
 ^1^*University of Cagliari, Italy*
 
@@ -138,7 +138,7 @@ knitr::include_graphics("pics/oral.png")
 
 Bracho-Estévanez, C.A.^1^, Cuadrado, M.^2^, Sánchez, I.^2^, González-Varo, J.P.^1^
 
-^1^*University of Cádiz, Spain*; ^2^*Ayuntamiento de Jerez, Spain*
+^1^*University of Cádiz, Spain*; ^2^*Jerez City Council, Spain*
 
 claudio.bracho@uca.es
 
@@ -182,7 +182,7 @@ Dispersal of all living organisms is a heterogeneous but, at the same time, very
 
 \newpage
 
-## The evolution of plant dispersal syndromes and seed traits: evolutionary cues and diversification.
+## The evolution of plant dispersal syndromes and seed traits: evolutionary cues and diversification
 
 ```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
 knitr::include_graphics("pics/poster.png")
@@ -206,7 +206,7 @@ knitr::include_graphics("pics/poster.png")
 
 González-García, V.^1^, Garrote, P.J.^2^, Fedriani, J.M.^3^
 
-^1^*University of Oviedo, Spain*; ^2^*Centre for Applied Ecology “Prof. Baeta Neves”, Portugal*; ^3^*Desertification Research Centre CIDE, Spain*
+^1^*University of Oviedo, Spain*; ^2^*Center for Applied Ecology “Prof. Baeta Neves”, Portugal*; ^3^*Desertification Research Center CIDE, Spain*
 
 victor_pola97@hotmail.com
 

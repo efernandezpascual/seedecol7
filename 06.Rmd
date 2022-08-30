@@ -8,7 +8,7 @@
 knitr::include_graphics("pics/oral.png")
 ```
 
-Aghai, M.M.^1^,  Kildisheva, O.A.^2^
+Aghai, M.M.^1^, Kildisheva, O.A.^2^
 
 ^1^*Silvaseed Company, USA*; ^2^*The Nature Conservancy, USA*
 
@@ -18,13 +18,13 @@ Climate change has increased the frequency and intensity of disturbance regimes 
 
 \newpage
 
-## Mediterranean seed-based ecological restoration: selecting native species with regeneration traits adapted to future climate scenarios
+## MedGermDB: building a seed germination database of Mediterranean plants
 
 ```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
 knitr::include_graphics("pics/oral.png")
 ```
 
-Cruz-Tejada, D.M.^1^, Fernández-Pascual, E.^2^, Mattana, E.^3^, and Carta, A^1^.
+Cruz-Tejada, D.M.^1^, Fernández-Pascual, E.^2^, Mattana, E.^3^, Carta, A^1^.
 
 ^1^*University of Pisa, Italy*; ^2^*University of Oviedo, Spain*; ^3^*Royal Botanic Gardens, Kew, UK*
 
@@ -40,7 +40,7 @@ Seed-based restoration is an effective tool to address biodiversity loss as a co
 knitr::include_graphics("pics/oral.png")
 ```
 
-Jiménez-Alfaro, B.^1^,  Gálvez, C.^2^
+Jiménez-Alfaro, B.^1^, Gálvez, C.^2^
 
 ^1^*University of Oviedo, Spain*; ^2^*Semillas Silvestres S.L., Spain*
 
@@ -50,7 +50,7 @@ Agricultural intensification of Mediterranean woody crops (vineyards, olive grov
 
 \newpage
 
-## Selecting native seeds for the revegetation of coastal dunes altered by Carpobrotus species
+## Selecting native seeds for the revegetation of coastal dunes altered by *Carpobrotus* species
 
 ```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
 knitr::include_graphics("pics/oral.png")
@@ -58,7 +58,7 @@ knitr::include_graphics("pics/oral.png")
 
 Alonso-Simón, A.^1^; Magrini, S.^1^; Canini, F.^1^; Attorre, F.^2^; Fabrini, G.^2^; Zucconi, L.^1^
 
-^1^*Tuscia University, Italy*; ^2^*Sapienza University, Italy*.
+^1^*Tuscia University, Italy*; ^2^*Sapienza University, Italy*
 
 ana.alonsosimon@unitus.it
 
@@ -74,7 +74,7 @@ knitr::include_graphics("pics/oral.png")
 
 Albani Rocchetti, G.^1^, Brancaleoni, L.^2^, Caneva, G.^1^, Davis, C.^3^, D’Agostino, M.^1^, Fabrini, G.^4^, Godefroid, S.^5,6,7^, Iberite, M.^4^, Mayer, A.^1^, Mondoni, A.^8^, Abeli, T.^1^
 
-^1^*University Roma Tre, Italy*;  ^2^*University of Ferrara, Italy*;  ^3^*Harvard University, USA*;  ^4^*Sapienza University, Italy*;  ^5^*Meise Botanic Garden, Belgium*; ^6^*Fédération Wallonie, Belgium*;  ^7^*Université Libre de Bruxelles, Belgium*;  ^8^*University of Pavia, Italy*
+^1^*University Roma Tre, Italy*; ^2^*University of Ferrara, Italy*; ^3^*Harvard University, USA*; ^4^*La Sapienza University, Italy*; ^5^*Meise Botanic Garden, Belgium*; ^6^*Wallonia-Brussels Federation, Belgium*; ^7^*Brussels Free University, Belgium*; ^8^*University of Pavia, Italy*
 
 giulia.albanirocchetti@uniroma3.it
 
@@ -88,13 +88,13 @@ Herbarium specimens have been proposed to be valuable sources of viable diaspore
 knitr::include_graphics("pics/oral.png")
 ```
 
-White, F.J.^1^, Porro, F.^1^, Rosbakh, S.^2^,  Mondoni, A.^1^
+White, F.J.^1^, Porro, F.^1^, Rosbakh, S.^2^, Mondoni, A.^1^
 
-^1^U*niversity of Pavia, Italy*; ^2^*University of Regensburg, Germany*
+^1^*University of Pavia, Italy*; ^2^*University of Regensburg, Germany*
 
 fionajane.white01@universitadipavia.it
 
-Climate warming is occurring in alpine environments faster than the global average, making cold-adapted alpine specialists particularly vulnerable to population decline and extinction. Ex situ seed conservation is of growing importance but little is known about how plants from genebank stored seeds will respond to climatic changes. We grew plants from seeds of the artic-alpine specialist *Viscaria alpina*, collected from the same location at different time points and held under seed bank conditions over the last 20 years. The site has experienced a warming trend of 0.3 °C per decade, with large interannual variation in temperature and precipitation. For six accessions (three old and three recent) we exposed juvenile plants to the stresses of heat and/or drought for one month. Plant biomass and leaf traits (leaf area, specific leaf area, leaf dry matter content) were measured as proxies of fitness under the different treatments. Interestingly, the temporal origin of the seeds did not have a significant effect on plant traits. However, we found differences in the stress response that were linked to inter-annual variation of the climate at the collection site. Specifically, plants from seeds produced in wet/cold years had significantly lower biomass and smaller leaf area when exposed to heat/dry and heat/wet stresses than those from seeds produced in drier/warmer years.  As a result, these latter plants showed increased fitness when exposed to similar stress experienced by the mother plant. Our results demonstrate that 20 years of storage produces viable plants of *V. alpina*, but it may be important to collect seeds frequently as those produced in different years respond differently to stress. Using temporally separated accessions to study climate change and stress response, we highlight a lack of contemporary evolution but observe environmentally induced plastic responses that may have important implications for *V. alpina* survival under climate change.
+Climate warming is occurring in alpine environments faster than the global average, making cold-adapted alpine specialists particularly vulnerable to population decline and extinction. Ex situ seed conservation is of growing importance but little is known about how plants from genebank stored seeds will respond to climatic changes. We grew plants from seeds of the artic-alpine specialist *Viscaria alpina*, collected from the same location at different time points and held under seed bank conditions over the last 20 years. The site has experienced a warming trend of 0.3 °C per decade, with large interannual variation in temperature and precipitation. For six accessions (three old and three recent) we exposed juvenile plants to the stresses of heat and/or drought for one month. Plant biomass and leaf traits (leaf area, specific leaf area, leaf dry matter content) were measured as proxies of fitness under the different treatments. Interestingly, the temporal origin of the seeds did not have a significant effect on plant traits. However, we found differences in the stress response that were linked to inter-annual variation of the climate at the collection site. Specifically, plants from seeds produced in wet/cold years had significantly lower biomass and smaller leaf area when exposed to heat/dry and heat/wet stresses than those from seeds produced in drier/warmer years. As a result, these latter plants showed increased fitness when exposed to similar stress experienced by the mother plant. Our results demonstrate that 20 years of storage produces viable plants of *V. alpina*, but it may be important to collect seeds frequently as those produced in different years respond differently to stress. Using temporally separated accessions to study climate change and stress response, we highlight a lack of contemporary evolution but observe environmentally induced plastic responses that may have important implications for *V. alpina* survival under climate change.
 
 \newpage
 
@@ -120,13 +120,13 @@ Effective seed storage is extremely problematic for short-lived pedunculate oak 
 knitr::include_graphics("pics/oral.png")
 ```
 
-Villa, S.^1^, Magoga, G.^1^, Iannella, M.^2^, Di Musciano, M.^2^, Montagna, M.^3^,  Pierce, S.^1^
+Villa, S.^1^, Magoga, G.^1^, Iannella, M.^2^, Di Musciano, M.^2^, Montagna, M.^3^, Pierce, S.^1^
 
 ^1^*University of Milan, Italy*; ^2^*University of L'Aquila, Italy*; ^3^*University of Napoli, Italy*
 
 sara.villa1@unimi.it
 
-*Campanula raineri* Perp. is a stenoendemic chasmophyte of the Italian Prealps. A multidisciplinary approach combining seed germination tests and other reproductive ecology traits (e.g. pollen quality, the trade-off between sexual and vegetative reproduction) across populations, population genomics and past-to-future Species Distribution Models (SDMs) will highlight potential threats for this species and support conservation strategies involving plant material produced from seed. Scattered populations at different elevations across the entire distributional range of *C. raineri* provide data and material (e.g. seeds for in vitro germination tests and pollen for quality assessment) for the analyses. Population structure is currently being defined using a 2b-RAD genotyping approach followed by bioinformatics analyses of SNPs. SDMs are being elaborated to combine presence/absence data with ecological information (bioclimatic variables, elevation and substrate).Seed germination rate and pollen viability exhibited strong positive relationships with elevation, while flower production decreased slightly. Initial results regarding population structure suggest extensive outbreeding across populations and scarce nucleotide diversity within populations. This genetic uniformity hinders the species ability to cope environmental changes, making it particularly threated. Preliminary models combining only species occurrence localities and bioclimatic variables correctly predict the current distribution area of *C. raineri*, and are being integrated with elevation and substrate information and extended in time to describe past and future potential distributions. Preliminary genomics results suggest the need of conservation actions for *C. raineri*. Projections of future species distribution will identify populations at most risk of climate change, and suitable areas for survival and colonization. In vitro production of plants can easily provide material for population reinforcements or reintroductions, even transferring material between populations -suggested by the high gene flow naturally occurring between populations-, taking into account that high-altitude populations produce less but higher-quality flowers. 
+*Campanula raineri* Perp. is a stenoendemic chasmophyte of the Italian Prealps. A multidisciplinary approach combining seed germination tests and other reproductive ecology traits (e.g. pollen quality, the trade-off between sexual and vegetative reproduction) across populations, population genomics and past-to-future Species Distribution Models (SDMs) will highlight potential threats for this species and support conservation strategies involving plant material produced from seed. Scattered populations at different elevations across the entire distributional range of *C. raineri* provide data and material (e.g. seeds for in vitro germination tests and pollen for quality assessment) for the analyses. Population structure is currently being defined using a 2b-RAD genotyping approach followed by bioinformatics analyses of SNPs. SDMs are being elaborated to combine presence/absence data with ecological information (bioclimatic variables, elevation and substrate). Seed germination rate and pollen viability exhibited strong positive relationships with elevation, while flower production decreased slightly. Initial results regarding population structure suggest extensive outbreeding across populations and scarce nucleotide diversity within populations. This genetic uniformity hinders the species ability to cope environmental changes, making it particularly threated. Preliminary models combining only species occurrence localities and bioclimatic variables correctly predict the current distribution area of *C. raineri*, and are being integrated with elevation and substrate information and extended in time to describe past and future potential distributions. Preliminary genomics results suggest the need of conservation actions for *C. raineri*. Projections of future species distribution will identify populations at most risk of climate change, and suitable areas for survival and colonization. In vitro production of plants can easily provide material for population reinforcements or reintroductions, even transferring material between populations -suggested by the high gene flow naturally occurring between populations-, taking into account that high-altitude populations produce less but higher-quality flowers. 
 
 \newpage
 
@@ -136,7 +136,7 @@ sara.villa1@unimi.it
 knitr::include_graphics("pics/oral.png")
 ```
 
-Fogliani, B.^1^; Martini, A.^2^; Brescia, F.^2^,  Ititiaty, Y.^2^
+Fogliani, B.^1^, Martini, A.^2^, Brescia, F.^2^, Ititiaty, Y.^2^
 
 ^1^*University of New Caledonia, New Caledonia*; ^2^*ARBOREAL, New Caledonian Agronomic Institute, New Caledonia*
 
@@ -152,7 +152,7 @@ New Caledonia has the important mission to reconcile its exceptional biodiversit
 knitr::include_graphics("pics/oral.png")
 ```
 
-Wawrzyniak, M.K.^1^; Suszka, J.^1^; Chmielarz, P.^1^
+Wawrzyniak, M.K.^1^, Suszka, J.^1^, Chmielarz, P.^1^
 
 ^1^*Institute of Dendrology, Polish Academy of Sciences, Poland*
 
@@ -162,7 +162,7 @@ To maintain the ambitious plan for wood production and forest conservation, adop
 
 \newpage
 
-## Understanding germination processes can enhance restoration: a role for the woody endocarp of Morella parvifolia (Benth.) Parra-Os from the south Andes of Ecuador
+## Understanding germination processes can enhance restoration: a role for the woody endocarp of *Morella parvifolia* (Benth.) Parra-Os from the south Andes of Ecuador
 
 ```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
 knitr::include_graphics("pics/oral.png")
@@ -170,7 +170,7 @@ knitr::include_graphics("pics/oral.png")
 
 Crespo, A.^1^, Inga, D.^1^, Pérez, H.E.^2^ 
 
-^1^*Universidad del Azuay, Ecuador*; ^2^*University of Florida, USA*
+^1^*University of Azuay, Ecuador*; ^2^*University of Florida, USA*
 
 heperez@ufl.edu
 
@@ -186,7 +186,7 @@ knitr::include_graphics("pics/oral.png")
 
 Kildisheva, O.A.^1^, Merritt, D.J.^2,3^, Best, C.^4^, Bakker, J.D.^5^, Erickson, T.E.^2,3^
 
-^1^*The Nature Conservancy, USA*; ^2^*Kings Park Science, Australia*; ^3^*University of Western Australia, Australia*; ^4^*Australian Grains Genebank, Australia*; ^5^*University of Washington, USA*; 
+^1^*The Nature Conservancy, USA*; ^2^*Kings Park Science, Australia*; ^3^*University of Western Australia, Australia*; ^4^*Australian Grains Genebank, Australia*; ^5^*University of Washington, USA*
 
 olga.kildisheva@tnc.org
 
@@ -202,7 +202,7 @@ knitr::include_graphics("pics/oral.png")
 
 Muñoz-Rojas, M.^1,2^, Machado de Lima, N.^2^; Dadzie, F.^2^; Ooi, M.K.J.^2^; Merritt, D.J.^3,4^; Erickson, T. E.^3,4^
 
-^1^*University of Seville, Spain*; ^2^*University of New South Wales, Australia*; ^3^*Kings Park Science, Australia*; ^4^*The University of Western Australia, Australia*
+^1^*University of Seville, Spain*; ^2^*University of New South Wales, Australia*; ^3^*Kings Park Science, Australia*; ^4^*University of Western Australia, Australia*
 
 mmunnoz1@us.es
 
@@ -218,11 +218,11 @@ knitr::include_graphics("pics/oral.png")
 
 Aghai, M.M.^1^
 
-^1^*DroneSeed Co, USA*
+^1^*DroneSeed Co., USA*
 
 matthew@droneseed.co
 
-DroneSeed is a Seattle-based startup developing software, hardware, and infrastructure for land surveying, and aerial seed deployment in forests and rangelands.  Wildfire and other large-scale ecosystem disturbances are increasing in frequency and severity. Constraints to post-disturbance revegetation include accessibility to remote areas, difficulty with precise distribution of limited seed supply at scale, biotic and abiotic conditions (e.g. invasive species, seed predation, and moisture availability), and associated costs (e.g. labor).  DroneSeed provides post-disturbance recovery programs that include surveying and distribution of native seed that has been manufactured into a vessel to deliver substrates and amendments to protect seed and promote germination. DroneSeed is trialing this technology for public, private, and philanthropic land management organizations throughout the US, with hundreds of hectares of trials underway in New Zealand and Canada as well. The presentation will provide an overview of the company’s technology and innovations to revegetation processes, introduce select projects, and highlight the research and development supporting our data-driven approach. We will focus on efforts from 2018 to 2022 to collect greenhouse and field data on the efficacy of seed enablement technology in direct seeding post-fire and post-harvest landscapes across several biomes and ecotypes. We will present the seedling establishment results of project sites with conifers, grasses and forbs, as well as tropical hardwoods.  We will share next steps and how this seeding technology can play a role in restoration and address challenges we still face while building towards scalable solutions for ecosystem restoration.
+DroneSeed is a Seattle-based startup developing software, hardware, and infrastructure for land surveying, and aerial seed deployment in forests and rangelands. Wildfire and other large-scale ecosystem disturbances are increasing in frequency and severity. Constraints to post-disturbance revegetation include accessibility to remote areas, difficulty with precise distribution of limited seed supply at scale, biotic and abiotic conditions (e.g. invasive species, seed predation, and moisture availability), and associated costs (e.g. labor). DroneSeed provides post-disturbance recovery programs that include surveying and distribution of native seed that has been manufactured into a vessel to deliver substrates and amendments to protect seed and promote germination. DroneSeed is trialing this technology for public, private, and philanthropic land management organizations throughout the US, with hundreds of hectares of trials underway in New Zealand and Canada as well. The presentation will provide an overview of the company’s technology and innovations to revegetation processes, introduce select projects, and highlight the research and development supporting our data-driven approach. We will focus on efforts from 2018 to 2022 to collect greenhouse and field data on the efficacy of seed enablement technology in direct seeding post-fire and post-harvest landscapes across several biomes and ecotypes. We will present the seedling establishment results of project sites with conifers, grasses and forbs, as well as tropical hardwoods. We will share next steps and how this seeding technology can play a role in restoration and address challenges we still face while building towards scalable solutions for ecosystem restoration.
 
 \newpage
 
@@ -234,7 +234,7 @@ knitr::include_graphics("pics/oral.png")
 
 Fois, M.^1^, Bacchetta, G.^1^, Buhagiar, J.^2^, Casolo, V.^3^, Ceriani, R.^4^, Cristaudo, A.^5^, Cuena-Lombraña, A.^1^, Dessì, L.^1^, Di Martino, L.^6^, Dixon, L.^7^, Fabrini, G.^8^, Magrini, S.^9^, Mariotti, M.^10^, Meloni, F.^1^, Podda, L.^1^, Porceddu, M.^1^, Ravnjak B.^11^, Salmeri, C.^12^, Sarigu, M.^1^, Villani, M.^13^, Bonomi, C.^14^
 
-^1^Università di Cagliari, Italy; ^2^L-Università ta' Malta, Malta; ^3^Università di Udine, Italy; ^4^Parco Monte Barro, Italy; ^5^Università di Catania, Italy; ^6^Parco della Maiella, Italy; ^7^Conservatoire botanique national méditerranéen de Porquerolles, France; ^8^Università La Sapienza, Italy; ^9^Università della Tuscia, Italy; ^10^Università di Genova, Italy; ^11^University of Ljubljana, Slovenia; ^12^Università di Palermo, Italy; ^13^Università di Padova, Italy; ^14^Museo delle Scienze, Trento, Italy
+^1^*University of Cagliari, Italy*; ^2^*University of Malta, Malta*; ^3^*University of Udine, Italy*; ^4^*Monte Barro Natural Park, Italy*; ^5^*University of Catania, Italy*; ^6^*Maiella National Park, Italy*; ^7^*Mediterranean National Botanical Conservatory of Porquerolles, France*; ^8^*La Sapienza University, Italy*; ^9^*University of Tuscia, Italy*; ^10^*University of Genoa, Italy*; ^11^*University of Ljubljana, Slovenia*; ^12^*University of Palermo, Italy*; ^13^*University of Padua, Italy*; ^14^*Trento Science Museum, Italy*
 
 bacchet@gmail.com
 
@@ -248,7 +248,7 @@ Developing successful plant conservation projects is a challenging task and requ
 knitr::include_graphics("pics/poster.png")
 ```
 
-Doyle, C.^1^, Yap, S^2^, Bragg, J.^2^, Rosetto, M.^2^, Ooi, M.K.J.^1^
+Doyle, C.^1^, Yap, S.^2^, Bragg, J.^2^, Rosetto, M.^2^, Ooi, M.K.J.^1^
 
 ^1^*University of New South Wales, Australia*; ^2^*Royal Botanic Gardens Sydney, Australia*
 
@@ -258,29 +258,13 @@ The long-term viability, and a potential limiting factor, of threatened plant sp
 
 \newpage
 
-## Warm treatments break the dormancy of stored seeds of *Carex radiata* (Wahlenb.) Small
-
-```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
-knitr::include_graphics("pics/poster.png")
-```
-
-Soares, V.C.^1^,  Kramer, A.^2^
-
-^1^*University of Florida, USA*; ^2^*Chicago Botanic Garden, USA*
-
-vamikami@gmail.com
-
-Seed longevity and vigor assessment are crucial to the effective management of seed conservation collections in genebanks because it validates the selection of viability re-test intervals and, therefore, recollection strategies. As well, determining the germination requirements of a species is essential to ensure seed quality during storage. However, knowledge on breaking dormancy and germinating seeds of wild species stored under seed bank conditions before they lose significant viability is still unknown for a high number of species in the USA. We investigated the germination requirements and seed longevity of *Carex radiata* seeds collected from temperate forest habitat in the Midwestern USA in a seed bank using the move-along technique. Germination of 15 and 3 year-old seeds stored at -20 ºC following drying to 20% RH in the Dixon National Tallgrass Seedbank (Illinois, USA) was determined by incubating them for 4 to 16 weeks at several temperatures that simulate the different seasons in a natural habitat. The results showed that germination of the 3-year-old collection was highest (up to 69%) when conditions were above 77/59 ºF (25/15 ºC), which occurred primarily between 4 and 16 weeks in this temperature. Similar germination was observed when seeds were exposed to 16 weeks of cold stratification (41 ºF/5 ºC) and then placed into incubation at 59-68 ºF (15-20 ºC). This also occurred mainly between 4 and 16 weeks after being placed in incubation. In contrast, germination of the 15-year-old accession was extremely low (maximum of 7% germination under any treatment condition). Thus, the most significant germination values were in the warmer incubation temperatures. Long-term (15 years old or over) stored seed of *Carex radiata* may not remain viable following standard seed bank protocols. 
-
-\newpage
-
 ## The impact of ozone treatment on seed germination and pathogen infections in wheat, barley, triticale and rapeseeds
 
 ```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
 knitr::include_graphics("pics/poster.png")
 ```
 
-Hlásná Čepková P.^1^, Palicová J.^1^, Kubinová Š.^2^, Dejneka A.^2^, Čurn V.^3^, Papoušková L.^1^
+Hlásná Čepková, P.^1^, Palicová, J.^1^, Kubinová, Š.^2^, Dejneka, A.^2^, Čurn, V.^3^, Papoušková, L.^1^
 
 ^1^*Crop Research Institute, Czech Republic*; ^2^*Czech Academy of Science, Czech Republic*; ^3^*University of South Bohemia, Czech Republic*
 
@@ -312,9 +296,9 @@ Ex-situ seed storage offers a potential solution to mitigate the extinction risk
 knitr::include_graphics("pics/poster.png")
 ```
 
-Martyn Yenson, A.J.^1,2^, Guja, L.K.^3,4^,  Commander, L.E.^1,5^ on behalf of the Germplasm Guidelines steering committee
+Martyn Yenson, A.J.^1,2^, Guja, L.K.^3,4^, Commander, L.E.^1,5^ on behalf of the Germplasm Guidelines steering committee
 
-^1^*Australian Network for Plant Conservation, Australia*; ^2^*Australian Botanic Garden, Australia*; ^3^*National Seed Bank, Australian National Botanic Gardens, Australia*; ^4^*Centre for Australian National Biodiversity Research, Australia*; ^5^*The University of Western Australia, Australia*
+^1^*Australian Network for Plant Conservation, Australia*; ^2^*Australian Botanic Garden, Australia*; ^3^*National Seed Bank, Australian National Botanic Gardens, Australia*; ^4^*Center for Australian National Biodiversity Research, Australia*; ^5^*University of Western Australia, Australia*
 
 amelia.yenson@botanicgardens.nsw.gov.au
 
@@ -330,11 +314,11 @@ knitr::include_graphics("pics/poster.png")
 
 Commander, L.E.^1,2^, Martyn Yenson, A.J.^1,3^, Guja, L.K.^4,5^, Fernance, C.^1^
 
-^1^*Australian Network for Plant Conservation, Australia*; ^2^*The University of Western Australia, Australia*; ^3^*Australian Botanic Garden, Australia*; ^4^*National Seed Bank, Australian National Botanic Gardens, Australia*; ^5^*Centre for Australian National Biodiversity Research, Australia*
+^1^*Australian Network for Plant Conservation, Australia*; ^2^*University of Western Australia, Australia*; ^3^*Australian Botanic Garden, Australia*; ^4^*National Seed Bank, Australian National Botanic Gardens, Australia*; ^5^*Center for Australian National Biodiversity Research, Australia*
 
 Lydia.Guja@awe.gov.au
 
-Over the past few years, the Australian Network for Plant Conservation (ANPC) has led the revision and publication of the following three best-practice guidelines: (1) Guidelines for the Translocation of Threatened Plants in Australia; (2) Florabank Guidelines for native seed collection and use; (3) Plant Germplasm Conservation in Australia for ex situ conservation. These guidelines can be used separately or together to inform plant conservation and restoration in Australia and across the world. All guidelines support action towards restoring functional, self-sustaining plant populations by providing guidance on different aspects of this process. Each one brings together current literature and best practice to create an accessible, evidence-based handbook. They also link readers into international guidelines, with relatable Australian examples. The Germplasm Guidelines and Translocation Guidelines feature case studies that capture collaborative efforts and showcase innovative methods. All three guidelines are available for free download from the ANPC website https://www.anpc.asn.au/product-category/publications/.  
+Over the past few years, the Australian Network for Plant Conservation (ANPC) has led the revision and publication of the following three best-practice guidelines: (1) Guidelines for the Translocation of Threatened Plants in Australia; (2) Florabank Guidelines for native seed collection and use; (3) Plant Germplasm Conservation in Australia for ex situ conservation. These guidelines can be used separately or together to inform plant conservation and restoration in Australia and across the world. All guidelines support action towards restoring functional, self-sustaining plant populations by providing guidance on different aspects of this process. Each one brings together current literature and best practice to create an accessible, evidence-based handbook. They also link readers into international guidelines, with relatable Australian examples. The Germplasm Guidelines and Translocation Guidelines feature case studies that capture collaborative efforts and showcase innovative methods. All three guidelines are available for free download from the ANPC website https://www.anpc.asn.au/product-category/publications/. 
 
 \newpage
 
@@ -344,7 +328,7 @@ Over the past few years, the Australian Network for Plant Conservation (ANPC) ha
 knitr::include_graphics("pics/poster.png")
 ```
 
-Di Martino L.^1^, Conti F.^2^, Bartolucci F.^2^, Di Musciano M.^3^, Frattaroli A.R.^3^, Di Santo M.^1^,  Di Cecco V.^1^
+Di Martino, L.^1^, Conti, F.^2^, Bartolucci, F.^2^, Di Musciano, M.^3^, Frattaroli, A.R.^3^, Di Santo, M.^1^, Di Cecco, V.^1^
 
 ^1^*Maiella National Park, Italy*; ^2^*University of Camerino, Italy*; ^3^*University of L’Aquila, Italy*
 
@@ -360,7 +344,7 @@ The Life Floranet project has just ended, with the main objective of protecting 
 knitr::include_graphics("pics/poster.png")
 ```
 
-Vuerich, M.^1^, Fabro, M.^2^, Petrussa, E.^1^, Braidot, E.^1^, Boscutti^1^.
+Vuerich, M.^1^, Fabro, M.^2^, Petrussa, E.^1^, Braidot, E.^1^, Boscutti, F.^1^
 
 ^1^*University of Udine, Italy*; ^2^*ERSA, Italy*
 
@@ -376,17 +360,17 @@ Ecological restoration has been proved to be an effective strategy to contrast b
 knitr::include_graphics("pics/poster.png")
 ```
 
-Hernández-Mendoza, V.^1^, Álvarez-Espino, R.^1^, and Mendoza-González, G.^2^
+Hernández-Mendoza, V.^1^, Álvarez-Espino, R.^1^, Mendoza-González, G.^2^
 
-^1^*Laboratorio Regional para el Estudio y Conservación de Germoplasma (GERMOLAB-CICY), Mexico*; ^2^*CONACYT Facultad de Ciencias UMDI-Sisal, UNAM Campus Yucatán, Mexico*
+^1^*Yucatán Scientific Research Center, Mexico*; ^2^*Sisal-Yucatán Campus of the National Autonomous University of Mexico, Mexico*
 
 bea.custodio13@gmail.com
 
-Coastal dune vegetation is adapted to tolerate extreme environments of high salinity, high temperature, low precipitation, low nutrients, and burial on accreting beaches. This vegetation provides important ecosystem services, such as erosion prevention and control, protection against hurricanes, biodiversity refuge, and provision of forest resources. Nevertheless, most coastal dune ecosystems are endangered due to habitat degradation resulting from the exploitation of natural resources for housing, tourism, agriculture and industry, and other factors such as invasive species, sea level rise, and climate change. In Mexico, these ecosystems are undervalued and among the less studied, estimating more than 50 % of their 800,000 hectares have been lost. Studies on the use of native pioneer species have shown these represent a potential for successful dune stabilization, but more studies on dune management in restoration projects are required. Studies of physiology, ecology, and conservation of native seeds are needed in restoration projects to recover the health of these degraded ecosystems. To be successful, restoration programs must consider the establishment of different stages in their protocols, before and during revegetation, choosing optimal collection sites, properly collecting seeds, describing dormancy and germination cues to improve the production of native plant materials, and storing viable seeds in adequate conditions for each species, functioning as a gene bank. Gene banks are an ex situ conservation option for storing dried seeds from wild populations at low temperatures. However, not all seeds can be stored in traditional seed bank conditions, so it is necessary to study each species physiology to propose better conservation options. The present work evaluates the ecological and physiological behavior of coastal dune seeds in order to find the adequate conditions of ex situ conservation by analyzing the germinative responses, dormancy break and desiccation tolerance of the main pioneer coastal dune species in two Southeast Mexican beaches.
+Coastal dune vegetation is adapted to tolerate extreme environments of high salinity, high temperature, low precipitation, low nutrients, and burial on accreting beaches. This vegetation provides important ecosystem services, such as erosion prevention and control, protection against hurricanes, biodiversity refuge, and provision of forest resources. Nevertheless, most coastal dune ecosystems are endangered due to habitat degradation resulting from the exploitation of natural resources for housing, tourism, agriculture and industry, and other factors such as invasive species, sea level rise, and climate change. In Mexico, these ecosystems are undervalued and among the less studied, estimating more than 50% of their 800,000 hectares have been lost. Studies on the use of native pioneer species have shown these represent a potential for successful dune stabilization, but more studies on dune management in restoration projects are required. Studies of physiology, ecology, and conservation of native seeds are needed in restoration projects to recover the health of these degraded ecosystems. To be successful, restoration programs must consider the establishment of different stages in their protocols, before and during revegetation, choosing optimal collection sites, properly collecting seeds, describing dormancy and germination cues to improve the production of native plant materials, and storing viable seeds in adequate conditions for each species, functioning as a gene bank. Gene banks are an ex situ conservation option for storing dried seeds from wild populations at low temperatures. However, not all seeds can be stored in traditional seed bank conditions, so it is necessary to study each species physiology to propose better conservation options. The present work evaluates the ecological and physiological behavior of coastal dune seeds in order to find the adequate conditions of ex situ conservation by analyzing the germinative responses, dormancy break and desiccation tolerance of the main pioneer coastal dune species in two Southeast Mexican beaches.
 
 \newpage
 
-## Seed priming to optimize germination in Arthrocnemum Moq.: a prime halophyte candidate for agricultural and biotechnological uses
+## Seed priming to optimize germination in *Arthrocnemum* Moq.: a prime halophyte candidate for agricultural and biotechnological uses
 
 ```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
 knitr::include_graphics("pics/poster.png")
@@ -394,7 +378,7 @@ knitr::include_graphics("pics/poster.png")
 
 Ramírez, E.^1^, Hernández-Apaolaza, L.^1^, Sánchez-Gavilán, I.^1^ and de la Fuente, V.^1^
 
-^1^Universidad Autónoma de Madrid, Spain
+^1^*Autonomous University of Madrid, Spain*
 
 esteban.ramirez@uam.es
 

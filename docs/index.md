@@ -15,7 +15,7 @@ fontsize: 10pt
 linestretch: 1.1
 geometry: margin=1.9cm
 biblio-style: apalike
-links-as-notes: true
+links-as-notes: false
 link-citations: yes
 github-repo: efernandezpascual/seedecol7
 url: "https://www.unioviedo.es/seedecol7/"
@@ -23,6 +23,7 @@ urlcolor: teal
 header-includes:
   - \usepackage{pdfpages}
   - \usepackage{fancyhdr}
+  - \usepackage{setspace}
   - \pagestyle{fancy}
   - \fancyhead{}
   - \fancyfoot{}
