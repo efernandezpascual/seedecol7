@@ -50,22 +50,6 @@ We present a quantitative synthesis of the seed germination spectrum of a cohere
 
 \newpage
 
-## No-dormancy in *Argyreia populifolia* seeds, an example of dormancy reversal in genus *Argyreia*
-
-```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
-knitr::include_graphics("pics/oral.png")
-```
-
-Gunadasa, D.M.N.H.^1^, Jayasuriya, K.M.G.G.^1^
-
-^1^*University of Peradeniya, Sri Lanka* 
-
-nethanihansana@gmail.com
-
-Phylogeny of seed dormancy of Convolvulaceae showed that Physical dormancy (PY) has evolved under seasonal environments, while PY has reverted to no-dormancy under aseasonal environments. Thus, we hypothesized that as the endemic wet zone *Argyreia* species in Sri Lanka evolved under aseasonal environment, produce non-dormant seeds. Seed germination, storage behavior, dormancy and anatomy of *Argyreia populifolia* an endemic wet zone species in Sri Lanka were compared with those of *Argyreia nervosa* a widely distributed species in the Indian subcontinent. Intact seeds of *A. populifolia* germinated 92%, revealing that they are non-dormant. In contrast, manual scarification increased the germination percentage of *A. nervosa* (95%), compared to the non-scarified seeds (10%). Mass increment of manually scarified seeds of *A. nervosa* after 24hrs is significantly higher than that of the non-scarified seeds (p < 0.05) confirming PY. Dye tracking confirms the water permeability and impermeability of seed coats of *A. populifolia* and *A. nervosa*, respectively. Within 10min, stain was observed inside the seeds of *A. populifolia* while the dye did not diffuse in to seeds of *A. nervosa* even after 72hrs. Drying and germination experiments showed that seeds of both species have orthodox storage behavior. Palisade layer was observed in the seed coat of *A. nervosa* with a light line, while the palisade layer is restricted to the hilum area in *A. populifolia* seeds. According to the phylogeny of seed dormancy in Convolvulaceae, tropical recalcitrant, non-dormant seeds producing species given rise to orthodox, PY seed producing species when inhabiting dry dominated seasonal climates. PY seems to be reserved to non-dormancy when wet zone endemic species like *A. populifolia* has evolved from more widely distributed species like *A. nervosa* which may have evolved under dry-dominated tropical climate. Our observation provides an example of reversing PY to non-dormancy in another clade in Convolvulaceae. 
-
-\newpage
-
 ## Two life-forms - two patterns of seed morphology in Orchidaceae
 
 ```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
