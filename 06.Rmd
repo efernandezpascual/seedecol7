@@ -226,22 +226,6 @@ Developing successful plant conservation projects is a challenging task and requ
 
 \newpage
 
-## Pairing population genetics with seed and seedling traits to quantify inbreeding impacts on an endangered species 
-
-```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
-knitr::include_graphics("pics/poster.png")
-```
-
-Doyle, C.^1^, Yap, S.^2^, Bragg, J.^2^, Rosetto, M.^2^, Ooi, M.K.J.^1^
-
-^1^*University of New South Wales, Australia*; ^2^*Royal Botanic Gardens Sydney, Australia*
-
-chantelle.doyle@student.unsw.edu.au
-
-The long-term viability, and a potential limiting factor, of threatened plant species is often related to seed production and subsequent seedling vigor. Understanding such limitations can be difficult, however coupling knowledge of the mating system and population genetic kinship provides a powerful approach for quantifying this. Using the critically endangered shrub *Hibbertia spanantha* as a case study, we confirmed that high kinship (relatedness) can reduce quantity and weight of viable seeds. Further, these impacts continue to be seen in seedling vigor both in the nursery and when planted to augment wild populations. This research has far reaching implications for how we select plants for ex situ conservation and seed storage and emphasizes the need to understand plant mating systems and utilize genetics as part of planning conservation of threatened species.
-
-\newpage
-
 ## The impact of ozone treatment on seed germination and pathogen infections in wheat, barley, triticale and rapeseeds
 
 ```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
