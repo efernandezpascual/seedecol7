@@ -50,22 +50,6 @@ Global climate change alters environmental conditions, and thus affects the repr
 
 \newpage
 
-## Multiple relations between seed traits and germination performance change with temperature
-
-```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
-knitr::include_graphics("pics/oral.png")
-```
-
-Saatkamp, A.^1^, Leclerc, L.^1^, Guerchet, V.^1^, Vandelook, F.^2^
-
-^1^*Aix Marseille University IMBE, France, France*; ^2^*Meise Botanic Garden, Belgium*
-
-arne.saatkamp@imbe.fr
-
-Global warming triggers multiple responses in plant populations and communities. Since seed functional traits are essential co-variates to understand germination timing but also survival during the seed bank stage it is crucial to know whether these relationships remain stable across -or vary over- environmental temperatures. Here we present the relationships between seed traits and germination speed at different exposure temperatures for 37 herbaceous species. At low temperatures (10ºC) germination rates increase with shape, lightness, and ratio of embryo to seed. At intermediate temperatures (20ºC), germination rates decrease with mass, but increase with embryo to seed ratio and terminal velocity. At high temperatures (30ºC), germination rates decrease with seed shape. Our work demonstrates the importance of temperature for studying seed trait – performance relations and we suggest to proceed with studying seed-related processes at different temperatures in the seed environment.
-
-\newpage
-
 ## Environment and polyploidy affect germination of rare shrub species
 
 ```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
@@ -178,22 +162,6 @@ Fire is an integral part of many ecosystems and recent record-breaking fires in 
 
 \newpage
 
-## Environmental thermal regulation of dormancy in *Echinochloa crus-galli* (L.) P. Beauv. seeds
-
-```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
-knitr::include_graphics("pics/oral.png")
-```
-
-Malavert, C.^1^, Ferraro, D.^1^, Batlla, D.^1^
-
-^1^*University of Buenos Aires, Argentina*
-
-malavert@agro.uba.ar
-
-Predicting weed emergence is of vital importance for weed management, since emergence is a key process in weed population dynamics and the seedling stage is the most effective for the application of control practices. In weeds species whose seeds present dormancy, as in *Echinochloa crus-galli*, predicting emergence depends on understanding how the environment regulates dormancy level. In the present work, we studied the environmental regulation of dormancy in *E. crus-galli* seeds. For this, *E. crus-galli* seeds were stored under different conditions: i) moist at 5, 10 and 15ºC (stratification) and ii) dry at 15 and 25ºC (dry after-ripening) for 80 days. During storage, the seeds were tested for germination at regular intervals under a wide temperature range (10-30ºC). The results showed that the changes in dormancy level were associated with a widening of the thermal range permissive for seed germination as consequence of a decrease in its lower limit temperature (Tl). This decrease in Tl was higher when the seeds were stratified at 10ºC than at 5 and 15ºC. Seeds exposed to dry after-repining showed a significant lower rate of dormancy release. Obtained results were used to establish functional relationships able to predict field emergence of *E. crus-galli* as a function of soil temperature. 
-
-\newpage
-
 ## Germination thresholds and stress tolerance of Australian native species under a changing climate
 
 ```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
@@ -287,22 +255,6 @@ Pérez, M.^1^, Holloway, T,^2^, Chandler, J.^1^, Haas, F.^3^, Rensing, S.^3^, Le
 Marta.Perez@rhul.ac.uk
 
 Seeds have a central role in almost all the food supply chains important to human and animal survival. Seed longevity and vigor are key quality-defining traits that determine plant species adaptability to changing environmental conditions and seed performance after storage. Seed vigor is a complex trait with genetic and environmental components determining the rate and uniformity of seed germination and seedling growth under harsh weather conditions and abiotic stresses. The mechanisms that regulate seed germination have been widely studied; however, little is known about the mechanisms related to seed longevity and vigor. Moreover, the relationship between seed pigmentation, dormancy and vigor, and their roles in environmental adaptation are poorly understood. Therefore, the objective of the present study is to investigate the physiological and molecular mechanisms underpinning the regulation of seed longevity and vigor in *Lepidium sativum* by using accelerated ageing techniques in combination with naturally aged lines. The results show changes in germination kinetics associated with the ageing treatments. Initial comparative transcriptomics analysis also indicates differences among the different treatments and lines. Moreover, differential expression patterns of key genes involved in genome integrity and stability processes were observed between the lines, indicating that this is a promising system for further analyses.
-
-\newpage
-
-## Ecophysiology seed traits of Devil's claw (*Martynia annua*, Martyniaceae)
-
-```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
-knitr::include_graphics("pics/poster.png")
-```
-
-Muthuthanthirige, D.L.^1^, Jayasuriya, K.M.G.G.^1^, Phartyal, S.S.^2^
-
-^1^*University of Peradeniya, Sri Lanka*; ^2^*Nalanda University, India*
-
-deshikalm@gmail.com
-
-*Martynia annua* is an invasive weed that carries many medicinal properties and is characterized by the presence of unique fruit with upwardly covered hooks that protrude from its woody endocarp. Despite being an invasive weed, its seed ecophysiology is poorly known. This study aimed to understand how this species' seed dormancy, germination, and storage physiology facilitate its invasion and survival. The endocarp of *M. annua* comprises four locules that bear mainly four seeds per fruit. Although none of the soil buried or laboratory incubated seeds germinated even after six months, woody endocarps of *M. annua* did not restrict water imbibition (seed mass without- and with-woody endocarp increased 61 and 104% within ten days of imbibition, respectively). Fully developed investing embryos present in seeds suggest that there is no morphological component to its dormancy. Seeds with- and without-woody endocarp germinated (>90%) only after being treated with 500 ppm GA3. The seed coat ratio of *M. annua* was <0.5, indicating a low probability of becoming a desiccation-sensitive seed. Moreover, dry-stored seeds retained >90% viability even after one year of storage. Our findings revealed that the removal of the endocarp failed to facilitate seed germination, indicating that both the endocarp constraint and the low growth potential of the embryo were responsible for the delay in seed germination. Thus, it confirmed that *M. annua* produces physiologically dormant and desiccation-tolerant seeds, capable of dispersing longer-distance at spatial and temporal scales. These specific seed traits could help explain its wider distribution and invasion success globally. 
 
 \newpage
 

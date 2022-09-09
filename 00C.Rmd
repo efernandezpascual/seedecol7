@@ -49,7 +49,6 @@
 * Hoyle, Gemma (Gemma.Hoyle@environment.gov.au) *Australian National Botanic Gardens, Australia*
 * Isla, Jorge (jorge.isla@ebd.csic.es) **Doñana Biological Station, CSIC, Spain*
 * Jiménez-Alfaro, Borja (jimenezalfaro@uniovi.es) *University of Oviedo, Spain*
-* Khajeh-Hosseini, Mohammad (agr844@gmail.com) *Ferdowsi University of Mashhad, Iran*
 * Kildisheva, Olga (olga.kildisheva@gmail.com) *The Nature Conservancy, United States*
 * Kourmpetli, Sofia (s.kourmpetli@cranfield.ac.uk) *Cranfield University, United Kingdom*
 * Lázaro-Lobo, Adrián (adrianlalobo@gmail.com) *University of Alcalá, Spain*
@@ -60,14 +59,12 @@
 * Lourenço Zirondi, Heloiza (heloiza.l.zirondi@unesp.br) *São Paulo State University, Brazil*
 * Luna, Belén (Belen.Luna@uclm.es) *University of Castilla-La Mancha, Spain*
 * Magrini, Sara (magrini@unitus.it) *Tuscia University, Italy*
-* Malavert, Cristian (malavert@agro.uba.ar) *University of Buenos Aires, Argentina*
 * Mašková, Tereza (terezapechova@gmail.com) *University of Regensburg, Germany*
 * McInnes, Sarah Jane (s.mcinnes@student.unsw.edu.au) *University of New South Wales, Australia*
 * Medrán Viñas, Ángela (angela@semillassilvestres.com) *Semillas Silvestres S.L., Spain*
 * Mondoni, Andrea (andrea.mondoni@unipv.it) *University of Pavia, Italy*
 * Muñoz Gallego, Raquel (rmunoz@imedea.uib-csic.es) *Mediterranean Institute of Advanced Studies, CSIC-UIB, Spain*
 * Muñoz Rojas, Miriam (mmunnoz1@us.es) *University of Seville, Spain*
-* Muthuthanthirige, Deshika (deshikalm@gmail.com) *University of Peradeniya, Sri Lanka*
 * Oikonomidis, Spyridon (soikonomidis@biol.uoa.gr) *National and Kapodistrian University of Athens, Greece*
 * Ooi, Mark (mark.ooi@unsw.edu.au) *University of New South Wales, Australia*
 * Ordóñez Parra, Carlos Andrés (carlos.ordonez.parra@gmail.com) *Federal University of Minas Gerais, Brazil*

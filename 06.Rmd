@@ -34,22 +34,6 @@ Seed-based restoration is an effective tool to address biodiversity loss as a co
 
 \newpage
 
-## Greening Iberian olive groves with native seeds
-
-```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
-knitr::include_graphics("pics/oral.png")
-```
-
-Jiménez-Alfaro, B.^1^, Gálvez, C.^2^
-
-^1^*University of Oviedo, Spain*; ^2^*Semillas Silvestres S.L., Spain*
-
-jimenezalfaro@uniovi.es
-
-Agricultural intensification of Mediterranean woody crops (vineyards, olive groves and fruit trees) has dramatically changed traditional landscapes that were relatively sustainable before the twentieth century. Current agroecological practices suggest the need to move towards the establishment of herbaceous ground covers. However, we do not know which species are suitable for restoration, and how seeds of these species can be produced on large scales. Here, we present an overview of major challenges for greening olive groves in southern Iberia and recent initiatives that combine applied research with seed production in Andalusia, Spain. We developed a comprehensive framework for selecting regionally adapted species for restoration that also emphasizes considerations for seed production. A major finding was that research on ground covers for regenerative agriculture has largely overlooked native species at the expense of commercial and ill-suited varieties. Our assessment of native annuals showed that 85% of the evaluated grasses and forbs exhibit a suite of ecological and production traits that can be tailored to meet the requirements of farmers, seed producers and environmental agencies. Moreover, seed experiments conducted with natural populations of suitable species allowed us to describe the seed ecological niche of preferential grasses and forbs to predict the natural regeneration of established populations. The contribution of scientific data and the trends in agroecological practices have strengthened the production of native seeds by specialized producers and the early growth of a seed market for greening Spanish olive groves. Together with other initiatives and trials conducted on experimental olive groves, it seems we are facing a change of paradigm in the sustainability of these agroecosystems. Nevertheless, we are still far from a healthy seed market coupled with national-based policies on native seed production.
-
-\newpage
-
 ## Selecting native seeds for the revegetation of coastal dunes altered by *Carpobrotus* species
 
 ```{r echo = FALSE, fig.cap = "", out.width = "35pt"}
